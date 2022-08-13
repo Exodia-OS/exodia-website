@@ -1,4 +1,4 @@
-# Exodia OS website
+# [``Exodia OS website``](https://exodia-os.github.io/exodia-website/)
 
 instal Dependencies
 
