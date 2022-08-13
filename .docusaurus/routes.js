@@ -4,48 +4,13 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/exodia-website/__docusaurus/debug',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug','813'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/config',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/config','948'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/content',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/content','ad8'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/globalData',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/globalData','a6b'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/metadata',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/metadata','f15'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/registry',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/registry','175'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/__docusaurus/debug/routes',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/routes','96b'),
+    path: '/exodia-website/',
+    component: ComponentCreator('/exodia-website/','63d'),
     exact: true
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','3d0'),
-    exact: true
-  },
-  {
-    path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','6a9'),
+    component: ComponentCreator('/exodia-website/','f2e'),
     routes: [
       {
         path: '/exodia-website/credits',

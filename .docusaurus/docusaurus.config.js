@@ -144,11 +144,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/home/ozil/GitHub/site/sidebars.js",
+          "sidebarPath": "/home/ozil/GitHub/exodia-website/sidebars.js",
           "sidebarCollapsible": true
         },
         "theme": {
-          "customCss": "/home/ozil/GitHub/site/src/css/style.css"
+          "customCss": "/home/ozil/GitHub/exodia-website/src/css/style.css"
         }
       }
     ]
