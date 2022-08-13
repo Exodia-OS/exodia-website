@@ -160,7 +160,9 @@ module.exports = {
     prism: {
       
     },
+
   },
+
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -176,4 +178,6 @@ module.exports = {
       },
     ],
   ],
+
+  
 };
