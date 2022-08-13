@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Keybinding",
+  "id": "Keybinding",
+  "title": "Keybinding",
+  "description": "Keybinding ⌨️",
+  "source": "@site/docs/Keybinding.md",
+  "sourceDirName": ".",
+  "slug": "/Keybinding",
+  "permalink": "/exodia-website/Keybinding",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Keybinding",
+    "title": "Keybinding"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "Post Install",
+    "permalink": "/exodia-website/quickstart/post-install"
+  },
+  "next": {
+    "title": "Developers",
+    "permalink": "/exodia-website/credits"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/exodia-website/",
+          "tagsPath": "/exodia-website/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/ozil/GitHub/site/sidebars.js",
+          "contentPath": "/home/ozil/GitHub/site/docs",
+          "contentPathLocalized": "/home/ozil/GitHub/site/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "credits",
+              "id": "credits",
+              "title": "Developers",
+              "description": "<!--",
+              "source": "@site/docs/credit.md",
+              "sourceDirName": ".",
+              "slug": "/credits",
+              "permalink": "/exodia-website/credits",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "credits",
+                "title": "Developers"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "Keybinding",
+                "permalink": "/exodia-website/Keybinding"
+              }
+            },
+            {
+              "unversionedId": "Keybinding",
+              "id": "Keybinding",
+              "title": "Keybinding",
+              "description": "Keybinding ⌨️",
+              "source": "@site/docs/Keybinding.md",
+              "sourceDirName": ".",
+              "slug": "/Keybinding",
+              "permalink": "/exodia-website/Keybinding",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "Keybinding",
+                "title": "Keybinding"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "Post Install",
+                "permalink": "/exodia-website/quickstart/post-install"
+              },
+              "next": {
+                "title": "Developers",
+                "permalink": "/exodia-website/credits"
+              }
+            },
+            {
+              "unversionedId": "quickstart/install",
+              "id": "quickstart/install",
+              "title": "Install",
+              "description": "",
+              "source": "@site/docs/quickstart/install.md",
+              "sourceDirName": "quickstart",
+              "slug": "/quickstart/install",
+              "permalink": "/exodia-website/quickstart/install",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "install",
+                "title": "Install",
+                "sidebar_position": 1
+              },
+              "sidebar": "config",
+              "next": {
+                "title": "Post Install",
+                "permalink": "/exodia-website/quickstart/post-install"
+              }
+            },
+            {
+              "unversionedId": "quickstart/post-install",
+              "id": "quickstart/post-install",
+              "title": "Post Install",
+              "description": "",
+              "source": "@site/docs/quickstart/post-install.md",
+              "sourceDirName": "quickstart",
+              "slug": "/quickstart/post-install",
+              "permalink": "/exodia-website/quickstart/post-install",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "post-install",
+                "title": "Post Install"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "Install",
+                "permalink": "/exodia-website/quickstart/install"
+              },
+              "next": {
+                "title": "Keybinding",
+                "permalink": "/exodia-website/Keybinding"
+              }
+            },
+            {
+              "unversionedId": "themes/glassy",
+              "id": "themes/glassy",
+              "title": "glassy",
+              "description": "",
+              "source": "@site/docs/themes/glassy.md",
+              "sourceDirName": "themes",
+              "slug": "/themes/glassy",
+              "permalink": "/exodia-website/themes/glassy",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "themes/themelist",
+              "id": "themes/themelist",
+              "title": "Themes",
+              "description": "🍁 Themes 🍁",
+              "source": "@site/docs/themes/themelist.md",
+              "sourceDirName": "themes",
+              "slug": "/themes/themelist",
+              "permalink": "/exodia-website/themes/themelist",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "themelist",
+                "title": "Themes"
+              },
+              "sidebar": "testside"
+            }
+          ],
+          "sidebars": {
+            "config": [
+              {
+                "type": "category",
+                "label": "Quickstart",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "quickstart/install"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "quickstart/post-install"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "Keybinding"
+              },
+              {
+                "type": "doc",
+                "id": "credits"
+              }
+            ],
+            "testside": [
+              {
+                "type": "doc",
+                "id": "themes/themelist"
+              }
+            ]
+          },
+          "mainDocId": "quickstart/install",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null,
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/exodia-website/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {}
+}

@@ -1,0 +1,62 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/exodia-website/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/exodia-website/",
+          "mainDocId": "quickstart/install",
+          "docs": [
+            {
+              "id": "credits",
+              "path": "/exodia-website/credits",
+              "sidebar": "config"
+            },
+            {
+              "id": "Keybinding",
+              "path": "/exodia-website/Keybinding",
+              "sidebar": "config"
+            },
+            {
+              "id": "quickstart/install",
+              "path": "/exodia-website/quickstart/install",
+              "sidebar": "config"
+            },
+            {
+              "id": "quickstart/post-install",
+              "path": "/exodia-website/quickstart/post-install",
+              "sidebar": "config"
+            },
+            {
+              "id": "themes/glassy",
+              "path": "/exodia-website/themes/glassy"
+            },
+            {
+              "id": "themes/themelist",
+              "path": "/exodia-website/themes/themelist",
+              "sidebar": "testside"
+            }
+          ],
+          "sidebars": {
+            "config": {
+              "link": {
+                "path": "/exodia-website/quickstart/install",
+                "label": "quickstart/install"
+              }
+            },
+            "testside": {
+              "link": {
+                "path": "/exodia-website/themes/themelist",
+                "label": "themes/themelist"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

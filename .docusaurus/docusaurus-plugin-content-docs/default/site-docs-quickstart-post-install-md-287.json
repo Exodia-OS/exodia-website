@@ -1,0 +1,25 @@
+{
+  "unversionedId": "quickstart/post-install",
+  "id": "quickstart/post-install",
+  "title": "Post Install",
+  "description": "",
+  "source": "@site/docs/quickstart/post-install.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/post-install",
+  "permalink": "/exodia-website/quickstart/post-install",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "post-install",
+    "title": "Post Install"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "Install",
+    "permalink": "/exodia-website/quickstart/install"
+  },
+  "next": {
+    "title": "Keybinding",
+    "permalink": "/exodia-website/Keybinding"
+  }
+}
