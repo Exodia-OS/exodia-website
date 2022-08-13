@@ -16,5 +16,5 @@ yarn start
 Deploy To GitHub Pages
 
 ```bash
-GIT_USER=Exodia-OS yarn deploy
+GIT_USER=userName yarn deploy
 ```
