@@ -16,6 +16,9 @@ title: Developers
 
 ## About us
 
+We are `Cyb3rTh1eveZ` Team OR `CyberThieveZ` Team From Egypt
+we are Enthusiast about PenTesting, Digital Forensics, Reverse Engineering, Wireless PenTesting and Web Application Security.
+Exodia OS is our First open source Project
 <br />
 
 ## Team Members
@@ -42,6 +45,14 @@ Core Dev | Package Maintainer. <br />&nbsp; Penetration Tester | Cybersecurity G
 [![Discord](/img/socialmedia/discord.png)](https://discordapp.com/users/521368454545014784) &emsp;
 [![GitHub](/img/socialmedia/github.png)](https://github.com/AbdallahAdham) &emsp;
 
+<img align="left" width="150" height="150" src="img/team/omar.png" /> 
+
+[Omar Esmail](https://github.com/OmarEsmail211) <br/>
+Core Dev | Web Maintainer. <br />&nbsp; Junior DevOps Engineer. <br />&nbsp; Linux, Cybersecurity Enthusiast | open source contributor <br/> <br/> 
+
+[![linkedin](/img/socialmedia/linkedin.png)](https://www.linkedin.com/in/omar-ismail-0855561b1/) &emsp;
+[![Discord](/img/socialmedia/discord.png)](https://discordapp.com/users/721526799192031263) &emsp;
+[![GitHub](/img/socialmedia/github.png)](https://github.com/OmarEsmail211) &emsp;
 
 <br /><br /><br />
 
