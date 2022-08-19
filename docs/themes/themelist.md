@@ -55,7 +55,7 @@ title: Themes
 
 <h1 align="center"> Rick 🍁 </h1> 
 
-![](/img/themes/GIFs/ChadWM.gif)
+![](/img/themes/GIFs/Rick.gif)
 
 | 🍁 | 🍁 | 🍁 |
 |----|----|----|

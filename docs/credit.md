@@ -27,7 +27,7 @@ Exodia OS is our First open source Project
 <img align="left" width="150" height="150" src="img/team/ozoz.png" /> 
 
 [Mahmoud Mohamed](https://github.com/mmsaeed509) <br/>
- **Team Leader** <br/> &nbsp; Core Dev | Package, Web, Docs Maintainer. <br />&nbsp; Penetration Tester | Red Teamer | CTF Player. <br />Linux, Hardware Enthusiast | open source contributor | Acer Predator fanboy
+ **Team Leader** <br/> &nbsp; Core Dev | Package, Web, Docs Maintainer. <br />&nbsp; Penetration Tester | Red Teamer | CTF Player. <br />Linux Enthusiast | Hardware Geek | open source contributor | Acer Predator fanboy
 
 [![linkedin](/img/socialmedia/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-a934b21a5/) &emsp;
 [![Discord](/img/socialmedia/discord.png)](https://discordapp.com/users/528010173403365377) &emsp;

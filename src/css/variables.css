@@ -42,11 +42,17 @@
 
   --banner_gradient: linear-gradient(
     to right,
-   
+    #5271c4 0%,
+    #b19fff 48%,
+    #E26FEF 100%
+
+    /* 
     #f99185 0%,
     #F06576 30%,
     #b12a5b 50%,
-    #782831 100%
+    #782831 100% 
+    */
+
   );
 }
 

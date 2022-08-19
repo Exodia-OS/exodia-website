@@ -67,30 +67,30 @@ module.exports = {
     },
 
     footer: {
-      style: 'dark',
+      style:            'dark',
       links: [
     
         //  right
         {
-          title: 'Publisher',
+          title:        'Publisher',
 
           items: [
 
             {
-              label: 'GitHub',
-              href: "https://github.com/mmsaeed509",
+              label:    'GitHub',
+              href:     "https://github.com/mmsaeed509",
               position: "right",
             },
 
             {
-              label: 'Facebook',
-              href: "https://www.facebook.com/engrody.linux.5",
+              label:    'LinkedIn',
+              href:     "https://www.linkedin.com/in/mahmoud-mohamed-a934b21a5/",
               position: "right",
             },
 
             {
-              label: 'Instagram',
-              href: "https://www.instagram.com/mmsaeed509/?theme=dark",
+              label:    'contact Publisher',
+              href:     "https://github.com/mmsaeed509#contact-me",
               position: "right",
             },
 
@@ -103,24 +103,28 @@ module.exports = {
         // center
 
         {
+
+          title:        'Editions src code',
+
           items: [
 
             {
-              label: 'reddit',
-              href: "https://www.reddit.com/user/mmsaeed509",
+              label:    'Home',
+              href:     "https://github.com/Exodia-OS/exodia-home-ISO",
               position: "center",
             },
 
 
             {
-              label: 'LinkedIn',
-              href: "https://www.linkedin.com/in/mahmoud-mohamed-a934b21a5/",
+              label:    'Predator',
+              href:     "https://github.com/Exodia-OS/exodia-predator",
               position: "center",
             },
 
+
             {
-              label: 'Twitter',
-              href: "https://twitter.com/Mahmoudzil4",
+              label:    'Wireless',
+              href:     "https://github.com/Exodia-OS/exodia-wireless",
               position: "center",
             },
             
@@ -130,22 +134,35 @@ module.exports = {
         // left
 
         {
+
+          title:        'Issues',
+
+
           items: [
 
             {
-              label: 'discord',
-              href: "https://discordapp.com/users/528010173403365377",
-              position: "left",
+              label:    'Home',
+              href:     "https://github.com/Exodia-OS/exodia-home-ISO/issues",
+              position: "center",
             },
 
 
             {
-              label: 'GitLab',
-              href: "https://gitlab.com/mmsaeed509",
-              position: "left",
+              label:    'Predator',
+              href:     "https://github.com/Exodia-OS/exodia-predator/issues",
+              position: "center",
+            },
+
+
+            {
+              label:    'Wireless',
+              href:     "https://github.com/Exodia-OS/exodia-wireless/issues",
+              position: "center",
             },
 
           ],
+        
+        
         },
 
 
