@@ -109,6 +109,14 @@ title: Themes
 |----|----|----|
 | ![](/img/themes/JapaneseCity/1.png) | ![](/img/themes/JapaneseCity/2.png) | ![](/img/themes/JapaneseCity/3.png) |
 
+<h1 align="center"> Tokyo City 🍁 </h1> 
+
+![](/img/themes/GIFs/TokyoCity.gif)
+
+| 🍁 | 🍁 | 🍁 |
+|----|----|----|
+| ![](/img/themes/TokyoCity/1.png) | ![](/img/themes/TokyoCity/2.png) | ![](/img/themes/TokyoCity/3.png) |
+
 <h1 align="center"> VALORANT 🍁 </h1> 
 
 ![](/img/themes/GIFs/VALORANT.gif)
