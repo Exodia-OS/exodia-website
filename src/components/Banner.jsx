@@ -45,7 +45,7 @@ function Banner() {
 
       <img
         className="bannerImg"
-        src="img/screenshots/JapaneseCity.png"
+        src="img/screenshots/TokyoCity.png"
         alt="Exodia Demo"
       />
     </div>
