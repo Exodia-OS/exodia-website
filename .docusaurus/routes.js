@@ -5,47 +5,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/exodia-website/__docusaurus/debug',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug','8f7'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug','ce4'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/config',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/config','f87'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/config','1fb'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/content',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/content','48a'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/content','2f7'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/globalData',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/globalData','71d'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/globalData','439'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/metadata',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/metadata','f54'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/metadata','71c'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/registry',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/registry','1e5'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/registry','650'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/routes',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/routes','ec1'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/routes','e75'),
     exact: true
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','63d'),
+    component: ComponentCreator('/exodia-website/','5ee'),
     exact: true
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','f2e'),
+    component: ComponentCreator('/exodia-website/','2d4'),
     routes: [
       {
         path: '/exodia-website/credits',
