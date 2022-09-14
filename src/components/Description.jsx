@@ -14,7 +14,7 @@ export default function Description() {
 
         <li>
           
-          Comes with BSPWM pre-configured with 13 fancy Themes 
+          Comes with BSPWM pre-configured with 13+ fancy Themes 
           (bspwm is a tiling window manager that represents windows as the leaves of a full binary tree)
 
         </li>
