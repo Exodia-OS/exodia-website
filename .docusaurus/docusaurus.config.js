@@ -57,7 +57,7 @@ export default {
           "position": "right"
         },
         {
-          "href": "https://discord.gg/6uX97aWN",
+          "href": "https://discord.gg/wPDyfR5AV9",
           "position": "right"
         }
       ],
