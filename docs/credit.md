@@ -47,6 +47,15 @@ Core Dev | Package Maintainer. <br />&nbsp; Penetration Tester | Cybersecurity G
 [![website](/img/socialmedia/website.png)](https://abdallahadham.github.io/) &emsp;
 
 
+<img align="left" width="150" height="150" src="img/team/abdo.png" /> 
+
+[Abdo Essam](https://github.com/abdo-essam) <br/>
+web Maintainer. <br />&nbsp; android developer. <br />&nbsp; Linux Enthusiast | open source contributor. <br/> <br/> 
+
+[![linkedin](/img/socialmedia/linkedin.png)](https://www.linkedin.com/in/abdelrahman-essam-79a775175/) &emsp;
+[![Discord](/img/socialmedia/discord.png)](https://discordapp.com/users/513009588203683840) &emsp;
+[![GitHub](/img/socialmedia/github.png)](https://github.com/abdo-essam) &emsp;
+
 <img align="left" width="150" height="150" src="img/team/omar.png" /> 
 
 [Omar Esmail](https://github.com/OmarEsmail211) <br/>
