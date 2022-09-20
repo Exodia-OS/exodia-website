@@ -2,7 +2,7 @@
   "unversionedId": "quickstart/post-install",
   "id": "quickstart/post-install",
   "title": "Post Install",
-  "description": "",
+  "description": "_NOTE:_   Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).",
   "source": "@site/docs/quickstart/post-install.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/post-install",
