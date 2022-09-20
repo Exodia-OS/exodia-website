@@ -21,7 +21,7 @@ function BannerText() {
 
       <div className="bannerBtns">
         <Link
-          to="https://sourceforge.net/projects/exodia-releases/"
+          to="https://drive.google.com/drive/folders/1jNItKvIozsoeomQfpeZ4_HCOYs4z65RF?usp=sharing"
           style={{ textDecoration: "none" }}
           >
           
