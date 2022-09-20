@@ -22,7 +22,8 @@ mod -> super (window key)
 | <kbd>mod+s</kbd> | Opens screenshoting menu |
 | <kbd>mod+r</kbd> | Runs apps as root |
 | <kbd>mod+w</kbd> | Opens windows menu |
-| <kbd>mod+Shift+f</kbd> | Opens file manager (pcmanfm) |
+| <kbd>mod+Shift+g</kbd> | Opens google chrome |
+| <kbd>mod+Shift+m</kbd> | Opens Music Player |
 | <kbd>mod+Shift+e</kbd> | Opens a text editor GUI (geany) |
 | <kbd>mod+Shift+w</kbd> | Opens a web browser (firefox) |
 | <kbd>alt+Control+v</kbd> | Opens a TUI text editor (vim) |
