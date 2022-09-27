@@ -13,8 +13,12 @@ local dev [``http://localhost:3000/exodia-website/``](http://localhost:3000/exod
 ```bash
 yarn start
 ```
+Self Deploy To GitHub Pages with GitHub Actions
+
+<!-- 
 Deploy To GitHub Pages
 
 ```bash
 GIT_USER=userName yarn deploy
 ```
+ -->
