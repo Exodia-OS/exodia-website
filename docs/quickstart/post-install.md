@@ -14,12 +14,21 @@ rofi may not work after installation
 
 open terminal <kbd>mod + Return</kbd>
 ```bash
-nvim .config/bspwm/bspwmrc
+sudo vim /etc/locale.conf
 ```
 then add
 ```bash
-# Fix Rofi 
-export LC_ALL="en_US.UTF-8"
+LANG=en_US.UTF-8
+LC_ADDRESS=en_US.UTF-8
+LC_IDENTIFICATION=en_US.UTF-8
+LC_MEASUREMENT=en_US.UTF-8
+LC_MONETARY=en_US.UTF-8
+LC_NAME=en_US.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_PAPER=en_US.UTF-8
+LC_TELEPHONE=en_US.UTF-8
+LC_TIME=en_US.UTF-8
+
 ```
 
 ### Fix grub theme
