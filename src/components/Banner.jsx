@@ -13,7 +13,7 @@ function BannerText() {
          
         <div className="bannerOS"> 
           
-          <h2 align="center"> OS For All Cybersecurity Tracks </h2> 
+          <h2 align="center">a highly customized arch-based distro For All Cybersecurity Tracks, and it comes with other special editions as well.</h2> 
         
         </div>
         
@@ -21,7 +21,7 @@ function BannerText() {
 
       <div className="bannerBtns">
         <Link
-          to="https://drive.google.com/drive/folders/1jNItKvIozsoeomQfpeZ4_HCOYs4z65RF?usp=sharing"
+          to="https://drive.google.com/file/d/1yOtBqfsXTGFcEAyAMcU9mAx2bN7MnS2U/view?usp=sharing"
           style={{ textDecoration: "none" }}
           >
           
