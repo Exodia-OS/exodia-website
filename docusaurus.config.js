@@ -24,12 +24,12 @@ module.exports = {
       
       items: [
 
-        {
-          to: "credits",
-          sidebarId: 'config',
-          position:"left",
-          label: "Team",
-        },
+        // {
+        //   to: "credits",
+        //   sidebarId: 'config',
+        //   position:"left",
+        //   label: "Team",
+        // },
 
         {
           to: "quickstart/install",
@@ -50,6 +50,12 @@ module.exports = {
           label: "Themes",
           position: "left",
           sidebarId: 'themesPage'
+        },
+
+        {
+          href: "exodia-website/static/team/index.html",
+          label: "Team",
+          position: "left",
         },
 
         {
