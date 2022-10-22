@@ -11,7 +11,6 @@ const sidebars = {
     },
     
     "Keybinding",
-    "credits",
   ],
 
   testside: [

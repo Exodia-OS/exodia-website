@@ -33,12 +33,6 @@
         "label": "Keybinding",
         "href": "/exodia-website/Keybinding",
         "docId": "Keybinding"
-      },
-      {
-        "type": "link",
-        "label": "Developers",
-        "href": "/exodia-website/credits",
-        "docId": "credits"
       }
     ],
     "testside": [
@@ -51,12 +45,6 @@
     ]
   },
   "docs": {
-    "credits": {
-      "id": "credits",
-      "title": "Developers",
-      "description": "<!--",
-      "sidebar": "config"
-    },
     "Keybinding": {
       "id": "Keybinding",
       "title": "Keybinding",

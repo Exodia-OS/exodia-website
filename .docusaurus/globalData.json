@@ -11,11 +11,6 @@
           "mainDocId": "quickstart/install",
           "docs": [
             {
-              "id": "credits",
-              "path": "/exodia-website/credits",
-              "sidebar": "config"
-            },
-            {
               "id": "Keybinding",
               "path": "/exodia-website/Keybinding",
               "sidebar": "config"

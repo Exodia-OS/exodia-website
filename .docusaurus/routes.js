@@ -45,14 +45,8 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','2d4'),
+    component: ComponentCreator('/exodia-website/','ccf'),
     routes: [
-      {
-        path: '/exodia-website/credits',
-        component: ComponentCreator('/exodia-website/credits','6b8'),
-        exact: true,
-        sidebar: "config"
-      },
       {
         path: '/exodia-website/Keybinding',
         component: ComponentCreator('/exodia-website/Keybinding','949'),

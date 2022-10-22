@@ -17,27 +17,6 @@
           "contentPathLocalized": "/home/ozil/GitHub/Exodia-Repos/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "credits",
-              "id": "credits",
-              "title": "Developers",
-              "description": "<!--",
-              "source": "@site/docs/credit.md",
-              "sourceDirName": ".",
-              "slug": "/credits",
-              "permalink": "/exodia-website/credits",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "id": "credits",
-                "title": "Developers"
-              },
-              "sidebar": "config",
-              "previous": {
-                "title": "Keybinding",
-                "permalink": "/exodia-website/Keybinding"
-              }
-            },
-            {
               "unversionedId": "Keybinding",
               "id": "Keybinding",
               "title": "Keybinding",
@@ -56,10 +35,6 @@
               "previous": {
                 "title": "Post Install",
                 "permalink": "/exodia-website/quickstart/post-install"
-              },
-              "next": {
-                "title": "Developers",
-                "permalink": "/exodia-website/credits"
               }
             },
             {
@@ -162,10 +137,6 @@
               {
                 "type": "doc",
                 "id": "Keybinding"
-              },
-              {
-                "type": "doc",
-                "id": "credits"
               }
             ],
             "testside": [

@@ -24,13 +24,6 @@ module.exports = {
       
       items: [
 
-        // {
-        //   to: "credits",
-        //   sidebarId: 'config',
-        //   position:"left",
-        //   label: "Team",
-        // },
-
         {
           to: "quickstart/install",
           label: "Wiki",
@@ -52,11 +45,11 @@ module.exports = {
           sidebarId: 'themesPage'
         },
 
-        {
-          href: "exodia-website/static/team/index.html",
-          label: "Team",
-          position: "left",
-        },
+        // {
+        //   href: "exodia-website/static/team/index.html",
+        //   label: "Team",
+        //   position: "left",
+        // },
 
         {
           href: "https://github.com/Exodia-OS",
@@ -78,18 +71,24 @@ module.exports = {
     
         //  right
         {
-          title:        'Publisher',
+          title:        'Developers',
 
           items: [
 
             {
-              label:    'GitHub',
+              label:    'Team',
+              href:     "https://exodia-os.github.io/team/",
+              position: "center",
+            },
+
+            {
+              label:    'Publisher GitHub',
               href:     "https://github.com/mmsaeed509",
               position: "right",
             },
 
             {
-              label:    'LinkedIn',
+              label:    'Publisher LinkedIn',
               href:     "https://www.linkedin.com/in/mahmoud-mohamed-a934b21a5/",
               position: "right",
             },

@@ -34,6 +34,7 @@ function BannerText() {
 
       
       </div>
+      
     </div>
   );
 }
