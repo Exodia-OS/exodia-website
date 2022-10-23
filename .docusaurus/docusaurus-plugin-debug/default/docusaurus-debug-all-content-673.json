@@ -12,9 +12,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/ozil/GitHub/Exodia-Repos/exodia-website/sidebars.js",
-          "contentPath": "/home/ozil/GitHub/Exodia-Repos/exodia-website/docs",
-          "contentPathLocalized": "/home/ozil/GitHub/Exodia-Repos/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/sidebars.js",
+          "contentPath": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/docs",
+          "contentPathLocalized": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "Keybinding",
