@@ -20,53 +20,46 @@ function BannerText() {
         
       </p>
 
+
+
+
       <div className="bannerBtns">
         <Link
           to="https://drive.google.com/file/d/1yOtBqfsXTGFcEAyAMcU9mAx2bN7MnS2U/view?usp=sharing"
-          style={{ textDecoration: "none" }}
-          >
-          
+          style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />
           Home
           </button>
-       
         </Link>
-      
       </div>
-
         <div className="bannerBtns">
         <Link
-          to=""
-          style={{ textDecoration: "none" }}
-          >
-          
+          to="https://github.com/Exodia-OS/exodia-predator-ISO"
+          style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />
             Predator
           </button>
-       
-        </Link>
-      
+        </Link> 
       </div>
-
         <div className="bannerBtns">
         <Link
-          to=""
-          style={{ textDecoration: "none" }}
-          >
-          
+          to="https://github.com/Exodia-OS/exodia-wireless-ISO"
+          style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/download.png" />
            Wireless
           </button>
-       
         </Link>
-      
       </div>
 
 
-      
+
+
+
+
+
     </div>
   );
 }
