@@ -28,13 +28,44 @@ function BannerText() {
           
           <button className="banner_btn">
            <img src="icons/download.png" />
-           DOWNLOAD
+          Home
           </button>
        
         </Link>
-
       
       </div>
+
+        <div className="bannerBtns">
+        <Link
+          to=""
+          style={{ textDecoration: "none" }}
+          >
+          
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+            Predator
+          </button>
+       
+        </Link>
+      
+      </div>
+
+        <div className="bannerBtns">
+        <Link
+          to=""
+          style={{ textDecoration: "none" }}
+          >
+          
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+           Wireless
+          </button>
+       
+        </Link>
+      
+      </div>
+
+
       
     </div>
   );
