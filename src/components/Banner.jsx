@@ -30,7 +30,6 @@ function BannerText() {
           Home
           </button>
         </Link>
-    
         <Link
           to="https://github.com/Exodia-OS/exodia-predator-ISO"
           style={{ textDecoration: "none" }}>
@@ -39,7 +38,6 @@ function BannerText() {
             Predator
           </button>
         </Link> 
-
         <Link
           to="https://github.com/Exodia-OS/exodia-wireless-ISO"
           style={{ textDecoration: "none" }} >
