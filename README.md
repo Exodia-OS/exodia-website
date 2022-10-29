@@ -1,4 +1,4 @@
-# [``Exodia OS website``](https://exodia-os.github.io/exodia-website/)
+### [``Exodia OS website``](https://exodia-os.github.io/exodia-website/)
 
 instal Dependencies
 
@@ -14,11 +14,3 @@ local dev [``http://localhost:3000/exodia-website/``](http://localhost:3000/exod
 yarn start
 ```
 Self Deploy To GitHub Pages with GitHub Actions
-
-<!-- 
-Deploy To GitHub Pages
-
-```bash
-GIT_USER=userName yarn deploy
-```
- -->
