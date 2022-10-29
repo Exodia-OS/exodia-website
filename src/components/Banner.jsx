@@ -60,7 +60,7 @@ function Banner() {
         </Link>
       </div>
 
-      <br/>
+      <br/>  <br/>
 
       <img
         className="bannerImg"
