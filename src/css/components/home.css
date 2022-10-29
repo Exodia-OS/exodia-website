@@ -143,8 +143,13 @@ aside {
 }
 
 .bannerContent h1 {
-  color: #FF51DC;
+  color: #A700E8;
   font-size: 4rem;
+  text-shadow:#1A1B26 7px 7px 7px;
+}
+
+.bannerContent h2 {
+  color: #A700E8;
   text-shadow:#1A1B26 7px 7px 7px;
 }
 

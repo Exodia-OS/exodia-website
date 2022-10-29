@@ -11,7 +11,7 @@ function BannerText() {
       <p>
       <img align="center" width="200px" src="img/Exodia.png"/>
          
-        <div className="homePage_desc"> 
+        <div className="bannerContent"> 
           
           <h2 align="center">a highly customized arch-based distro For All Cybersecurity Tracks</h2>
           <h2>It comes with other special editions as well.</h2> 
