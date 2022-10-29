@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Description() {
+export default function About() {
   return (
     <div className="homePage_desc">
       <h1>About us</h1>

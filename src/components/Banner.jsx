@@ -30,14 +30,6 @@ function Banner() {
     <div className="banner">
       <BannerText />
 
-      <img
-        className="bannerImg"
-        src="img/desktop.png"
-        alt="Exodia Demo"
-      />
-
-        <br/> <br/> <br/>
-
         <div className="bannerBtns">
         <Link
           to="https://drive.google.com/file/d/1yOtBqfsXTGFcEAyAMcU9mAx2bN7MnS2U/view?usp=sharing"
@@ -68,6 +60,13 @@ function Banner() {
         </Link>
       </div>
 
+      <br/>
+
+      <img
+        className="bannerImg"
+        src="img/desktop.png"
+        alt="Exodia Demo"
+      />
 
     </div>
   );

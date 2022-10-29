@@ -7,7 +7,7 @@ import Layout from "@theme/Layout";
 
 import Editions from "../components/Editions";
 import Banner from "../components/Banner";
-import Description from "../components/Description";
+import About from "../components/About";
 
 // Home page //
 
@@ -16,7 +16,7 @@ function Home() {
     <Layout description="">
       <main className="homepage">
         <Banner />
-        <Description />
+        <About />
         <Editions />
       </main>
     </Layout>

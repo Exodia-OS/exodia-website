@@ -36,7 +36,7 @@ const FeatureList = [
 
 ];
 
-function Feature({ imgSrc, title, description }) {
+function Edition({ imgSrc, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
@@ -50,14 +50,15 @@ function Feature({ imgSrc, title, description }) {
   );
 }
 
-export default function Features() {
+export default function Editions() {
   return (
     <section className="features">
       <h1>Editions</h1>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => <Feature key={idx} {...props} />)}
+          {FeatureList.map((props, idx) => <Edition key={idx} {...props} />)}
         </div>
+        
       </div>
     </section>
   );
