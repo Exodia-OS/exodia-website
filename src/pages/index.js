@@ -5,11 +5,11 @@ import "../css/components/home.css";
 import React from "react";
 import Layout from "@theme/Layout";
 
-import Features from "../components/Features";
+import Editions from "../components/Editions";
 import Banner from "../components/Banner";
 import Description from "../components/Description";
 
-// Home page
+// Home page //
 
 function Home() {
   return (
@@ -17,7 +17,7 @@ function Home() {
       <main className="homepage">
         <Banner />
         <Description />
-        <Features />
+        <Editions />
       </main>
     </Layout>
   );

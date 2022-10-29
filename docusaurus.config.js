@@ -43,13 +43,7 @@ module.exports = {
           label: "Themes",
           position: "left",
           sidebarId: 'themesPage'
-        },
-
-        // {
-        //   href: "exodia-website/static/team/index.html",
-        //   label: "Team",
-        //   position: "left",
-        // },
+        }, 
 
         {
           href: "https://github.com/Exodia-OS",
