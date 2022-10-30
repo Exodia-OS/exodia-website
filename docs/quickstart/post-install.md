@@ -4,8 +4,9 @@ title: Post Install
 ---
 > **_NOTE:_**   **Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).**
 
-### for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso`,I removed the `exodia-wireless-tools-repo ` and `exodia-wireless-extra-tools-repo` Repos
-and Replaced with `Exodia-PenTest-Repo`, as I'm working on a new release, Big updates coming
+#### for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso`
+#### removed the `exodia-wireless-tools-repo ` and `exodia-wireless-extra-tools-repo` Repos
+#### Replaced with `Exodia-PenTest-Repo`, as I'm working on a new release, Big updates coming
 
 remove old Repos, adde new Repos in `/etc/pacman.conf`
 
