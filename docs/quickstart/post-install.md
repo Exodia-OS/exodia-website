@@ -4,6 +4,31 @@ title: Post Install
 ---
 > **_NOTE:_**   **Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).**
 
+### for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso`,I removed the `exodia-wireless-tools-repo ` and `exodia-wireless-extra-tools-repo` Repos
+and Replaced with `Exodia-PenTest-Repo`, as I'm working on a new release, Big updates coming
+
+remove old Repos, adde new Repos in `/etc/pacman.conf`
+
+> **_ONLY:_**   **if you use `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso`.**
+
+```
+## Core packages repo ##
+[exodia-repo]
+SigLevel = Optional TrustAll
+Server = https://exodia-os.github.io/$repo/$arch
+
+## PenTest packages repo ##
+[Exodia-PenTest-Repo]
+SigLevel = Optional TrustAll
+Server = https://exodia-os.github.io/$repo/$arch
+
+## Community Repo ##
+[exodia-community-repo]
+SigLevel = Optional TrustAll
+Server = https://exodia-os.github.io/$repo/$arch
+
+```
+
 ### update 
 ```bash
 update
@@ -17,7 +42,7 @@ open terminal <kbd>mod + Return</kbd>
 sudo vim /etc/locale.conf
 ```
 then add
-```bash
+```
 LANG=en_US.UTF-8
 LC_ADDRESS=en_US.UTF-8
 LC_IDENTIFICATION=en_US.UTF-8
@@ -28,7 +53,6 @@ LC_NUMERIC=en_US.UTF-8
 LC_PAPER=en_US.UTF-8
 LC_TELEPHONE=en_US.UTF-8
 LC_TIME=en_US.UTF-8
-
 ```
 
 ### Fix grub theme
