@@ -25,11 +25,11 @@ mod -> super (window key)
 | <kbd>mod + Shift + m</kbd> | Opens Music Player |
 | <kbd>mod + Shift + e</kbd> | Opens a text editor GUI (geany) |
 | <kbd>mod + Shift + w</kbd> | Opens a web browser (firefox) |
-| <kbd>alt+Control+v</kbd> | Opens a TUI text editor (vim) |
-| <kbd>alt+Control+n</kbd> | Opens a TUI text editor (NEOvim) |
-| <kbd>alt+Control+r</kbd> | Opens a TUI file manager (ranger) |
-| <kbd>alt+Control+h</kbd> | Opens a TUI system ressources monitor (HTOP) |
-| <kbd>alt+Control+b</kbd> | Opens a TUI system ressources monitor (Bashtop) |
+| <kbd>alt + Control + v</kbd> | Opens a TUI text editor (vim) |
+| <kbd>alt + Control + n</kbd> | Opens a TUI text editor (NEOvim) |
+| <kbd>alt + Control + r</kbd> | Opens a TUI file manager (ranger) |
+| <kbd>alt + Control + h</kbd> | Opens a TUI system ressources monitor (HTOP) |
+| <kbd>alt + Control + b</kbd> | Opens a TUI system ressources monitor (Bashtop) |
 | <kbd>mod + p</kbd> | Color Picker |
 | <kbd>alt + Control + l</kbd> | Launches the BSPWM lockscreen |
 | <kbd>Print</kbd> | Takes a screenshot |
