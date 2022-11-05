@@ -27,8 +27,8 @@ const FeatureList = [
     imgSrc: "logos/Exodia.png",
     description: (
       <>
-       This Edition For Wireless PenTesting
-       come with 120+ pre-installed Tools For Wireless PenTesting
+       This Edition is For penetration testing (and especially for Wireless PenTesting)
+       come with 400+ pre-installed Tools For PenTesting(and 130+ For Wireless PenTesting).
       </>
     ),
   },
