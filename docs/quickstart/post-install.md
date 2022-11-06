@@ -40,6 +40,17 @@ rofi may not work after installation
 
 open terminal <kbd>mod + Return</kbd>
 ```bash
+nvim .config/bspwm/bspwmrc
+```
+then add
+```
+# Fix Rofi 
+export LC_ALL="en_US.UTF-8"
+```
+
+<!-- 
+
+```bash
 sudo vim /etc/locale.conf
 ```
 then add
@@ -55,6 +66,8 @@ LC_PAPER=en_US.UTF-8
 LC_TELEPHONE=en_US.UTF-8
 LC_TIME=en_US.UTF-8
 ```
+
+ -->
 
 ### Fix grub theme
 GRUB theme may not work after installation
