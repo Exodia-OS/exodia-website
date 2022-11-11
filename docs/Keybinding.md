@@ -20,7 +20,7 @@ mod -> super (window key)
 | <kbd>mod + s</kbd> | Opens screenshoting menu |
 | <kbd>mod + r</kbd> | Runs apps as root |
 | <kbd>mod + w</kbd> | Opens windows menu |
-| <kbd>mod + d</kbd> | Opens EWW dashboard |
+| <kbd>mod + d</kbd> | Open/Close EWW dashboard |
 | <kbd>mod + Shift + g</kbd> | Opens google chrome |
 | <kbd>mod + Shift + m</kbd> | Opens Music Player |
 | <kbd>mod + Shift + e</kbd> | Opens a text editor GUI (geany) |
