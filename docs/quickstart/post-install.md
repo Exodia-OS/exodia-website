@@ -11,7 +11,7 @@ title: Post Install
 
    ```bash
 
-   sudo cp -r /usr/share/grub/themes/exodia/
+   sudo cp -r /usr/share/grub/themes/exodia/ /boot/grub/themes/
    sudo grub-mkconfig -o /boot/grub/grub.cfg
    ```
 
