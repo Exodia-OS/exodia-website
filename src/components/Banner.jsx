@@ -32,7 +32,7 @@ function Banner() {
 
         <div className="bannerBtns">
         <Link
-          to="https://drive.google.com/file/d/1yOtBqfsXTGFcEAyAMcU9mAx2bN7MnS2U/view?usp=sharing"
+          to="https://drive.google.com/file/d/1fHboN_4K0c6mpO4ed4Ub71Reo-9q68N5/view?usp=share_link"
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
@@ -42,7 +42,7 @@ function Banner() {
         </Link>
           <br/>
         <Link
-          to="https://github.com/Exodia-OS/exodia-predator-ISO"
+          to="https://drive.google.com/file/d/1UrsFFADkVrada_s0IJo_BjlgeT3Q36tn/view?usp=share_link"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />

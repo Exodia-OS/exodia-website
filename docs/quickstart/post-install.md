@@ -4,7 +4,18 @@ title: Post Install
 ---
 > **_NOTE:_**   **Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).**
 
+<details>
+   <summary><h2> for **v2022.11** Release</h2></summary>
 
+   to install grub theme 
+
+   ```bash
+
+   sudo cp -r /usr/share/grub/themes/exodia/
+   sudo grub-mkconfig -o /boot/grub/grub.cfg
+   ```
+
+</details>
 
 <details>
    <summary><h2> for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso` </h2></summary>
