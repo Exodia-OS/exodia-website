@@ -4,7 +4,12 @@ title: Post Install
 ---
 > **_NOTE:_**   **Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).**
 
-#### for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso`
+
+
+<details>
+   <summary><h2> for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso` </h2></summary>
+
+
 #### removed the `exodia-wireless-tools-repo ` and `exodia-wireless-extra-tools-repo` Repos
 #### Replaced with `Exodia-PenTest-Repo`, as I'm working on a new release, Big updates coming
 
@@ -110,3 +115,6 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ![GRUB](/img/post-install/grub-3.png)
 
 as you see `Shut Down` & `Reboot` Menus added
+
+
+</details>
