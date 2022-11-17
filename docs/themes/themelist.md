@@ -124,3 +124,35 @@ title: Themes
 | 🍁 | 🍁 | 🍁 |
 |----|----|----|
 | ![](/img/themes/VALORANT/1.png) | ![](/img/themes/VALORANT/2.png) | ![](/img/themes/VALORANT/3.png) |
+
+<h1 align="center"> Melissa 🍁 </h1> 
+
+![](/img/themes/GIFs/Melissa.gif)
+
+| 🍁 | 🍁 | 🍁 |
+|----|----|----|
+| ![](/img/themes/Melissa/1.png) | ![](/img/themes/Melissa/2.png) | ![](/img/themes/Melissa/3.png) |
+
+<h1 align="center"> Cristina 🍁 </h1> 
+
+![](/img/themes/GIFs/Cristina.gif)
+
+| 🍁 | 🍁 | 🍁 |
+|----|----|----|
+| ![](/img/themes/Cristina/1.png) | ![](/img/themes/Cristina/2.png) | ![](/img/themes/Cristina/3.png) |
+
+<h1 align="center"> Pamela 🍁 </h1> 
+
+![](/img/themes/GIFs/Pamela.gif)
+
+| 🍁 | 🍁 | 🍁 |
+|----|----|----|
+| ![](/img/themes/Pamela/1.png) | ![](/img/themes/Pamela/2.png) | ![](/img/themes/Pamela/3.png) |
+
+<h1 align="center"> CyberPunk 🍁 </h1> 
+
+![](/img/themes/GIFs/CyberPunk.gif)
+
+| 🍁 | 🍁 | 🍁 |
+|----|----|----|
+| ![](/img/themes/CyberPunk/1.png) | ![](/img/themes/CyberPunk/2.png) | ![](/img/themes/CyberPunk/3.png) |
