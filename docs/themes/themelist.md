@@ -7,7 +7,7 @@ title: Themes
 
 ![](/img/themes/GIFs/themes.gif)
 
-<h3 align="center"> Comes with BSPWM pre-configured with 13 fancy Themes 🍁 </h3> 
+<h3 align="center"> Comes with BSPWM pre-configured with 18 fancy Themes 🍁 </h3> 
 
 <br/> <br/>
 
