@@ -13,7 +13,7 @@ function BannerText() {
          
         <div className="bannerContent"> 
           
-          <h2 align="center">a highly customized arch-based distro For All Cybersecurity Tracks</h2>
+          <h2 align="center">a highly customized arch-based distro For All Cybersecurity fields.</h2>
           <h2>It comes with other special editions as well.</h2> 
         
         </div>
@@ -40,6 +40,7 @@ function Banner() {
           Home
           </button>
         </Link>
+        
           <br/>
         <Link
           to="https://drive.google.com/file/d/1UrsFFADkVrada_s0IJo_BjlgeT3Q36tn/view?usp=share_link"
@@ -49,6 +50,7 @@ function Banner() {
             Predator
           </button>
         </Link>
+        
           <br/>
         <Link
           to="https://github.com/Exodia-OS/exodia-wireless-ISO"
@@ -56,6 +58,16 @@ function Banner() {
           <button className="banner_btn">
            <img src="icons/download.png" />
            Wireless
+          </button>
+        </Link>
+        
+        <br/>
+        <Link
+          to="https://fosstorrents.com/distributions/exodia-os/"
+          style={{ textDecoration: "none" }}>
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+           FOSS Torrents
           </button>
         </Link>
       </div>
