@@ -73,7 +73,7 @@ function Banner() {
 
       <br/>
         <Link
-          to="https://sourceforge.net/projects/exodia-releases/"
+          to="https://sourceforge.net/projects/exodia-releases/files/"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/download.png" />
