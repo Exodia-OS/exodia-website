@@ -70,6 +70,17 @@ function Banner() {
            FOSS Torrents
           </button>
         </Link>
+
+      <br/>
+        <Link
+          to="https://sourceforge.net/projects/exodia-releases/"
+          style={{ textDecoration: "none" }} >
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+           sourceforge
+          </button>
+        </Link>
+
       </div>
 
       <br/>  <br/>
