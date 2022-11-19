@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <div className="homePage_desc">
-      <h1>About us</h1>
+      <h1>About Exodia</h1>
 
       <ul>
         <li>

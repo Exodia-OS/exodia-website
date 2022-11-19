@@ -8,6 +8,7 @@ import Layout from "@theme/Layout";
 import Editions from "../components/Editions";
 import Banner from "../components/Banner";
 import About from "../components/About";
+import Features from "../components/Features"
 
 // Home page //
 
@@ -18,6 +19,7 @@ function Home() {
         <Banner />
         <About />
         <Editions />
+        <Features />
       </main>
     </Layout>
   );
