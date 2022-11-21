@@ -23,6 +23,12 @@
             "label": "Post Install",
             "href": "/exodia-website/quickstart/post-install",
             "docId": "quickstart/post-install"
+          },
+          {
+            "type": "link",
+            "label": "polybar",
+            "href": "/exodia-website/tips/polybar",
+            "docId": "tips/polybar"
           }
         ],
         "collapsed": true,
@@ -73,6 +79,12 @@
       "title": "Themes",
       "description": "🍁 Themes 🍁",
       "sidebar": "testside"
+    },
+    "tips/polybar": {
+      "id": "tips/polybar",
+      "title": "polybar",
+      "description": "GitHub Module",
+      "sidebar": "config"
     }
   }
 }

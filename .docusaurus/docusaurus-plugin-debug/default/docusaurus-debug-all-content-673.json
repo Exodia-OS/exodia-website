@@ -33,8 +33,8 @@
               },
               "sidebar": "config",
               "previous": {
-                "title": "Post Install",
-                "permalink": "/exodia-website/quickstart/post-install"
+                "title": "polybar",
+                "permalink": "/exodia-website/tips/polybar"
               }
             },
             {
@@ -81,8 +81,8 @@
                 "permalink": "/exodia-website/quickstart/install"
               },
               "next": {
-                "title": "Keybinding",
-                "permalink": "/exodia-website/Keybinding"
+                "title": "polybar",
+                "permalink": "/exodia-website/tips/polybar"
               }
             },
             {
@@ -114,6 +114,31 @@
                 "title": "Themes"
               },
               "sidebar": "testside"
+            },
+            {
+              "unversionedId": "tips/polybar",
+              "id": "tips/polybar",
+              "title": "polybar",
+              "description": "GitHub Module",
+              "source": "@site/docs/tips/polybar.md",
+              "sourceDirName": "tips",
+              "slug": "/tips/polybar",
+              "permalink": "/exodia-website/tips/polybar",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "polybar",
+                "title": "polybar"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "Post Install",
+                "permalink": "/exodia-website/quickstart/post-install"
+              },
+              "next": {
+                "title": "Keybinding",
+                "permalink": "/exodia-website/Keybinding"
+              }
             }
           ],
           "sidebars": {
@@ -129,6 +154,10 @@
                   {
                     "type": "doc",
                     "id": "quickstart/post-install"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tips/polybar"
                   }
                 ],
                 "collapsed": true,

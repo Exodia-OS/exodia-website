@@ -33,6 +33,11 @@
               "id": "themes/themelist",
               "path": "/exodia-website/themes/themelist",
               "sidebar": "testside"
+            },
+            {
+              "id": "tips/polybar",
+              "path": "/exodia-website/tips/polybar",
+              "sidebar": "config"
             }
           ],
           "sidebars": {

@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','886'),
+    component: ComponentCreator('/exodia-website/','f31'),
     routes: [
       {
         path: '/exodia-website/Keybinding',
@@ -75,6 +75,12 @@ export default [
         component: ComponentCreator('/exodia-website/themes/themelist','4f3'),
         exact: true,
         sidebar: "testside"
+      },
+      {
+        path: '/exodia-website/tips/polybar',
+        component: ComponentCreator('/exodia-website/tips/polybar','7c0'),
+        exact: true,
+        sidebar: "config"
       }
     ]
   },

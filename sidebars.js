@@ -6,6 +6,7 @@ const sidebars = {
       items: [
         "quickstart/install",
         "quickstart/post-install",
+        "tips/polybar",
       
       ],
     },
