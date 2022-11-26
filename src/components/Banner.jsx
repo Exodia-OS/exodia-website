@@ -21,8 +21,7 @@ function BannerText() {
       </p>
 
       <div className="bannerContent">
-      <h1>Exodia</h1>
-
+        
       <ul>
         <li>
         <h2>User : liveuser</h2>
