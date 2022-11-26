@@ -20,7 +20,22 @@ function BannerText() {
         
       </p>
 
-      
+      <div className="bannerContent">
+      <h1>Exodia</h1>
+
+      <ul>
+        <li>
+        <h2>User : liveuser</h2>
+        </li>
+
+        <li>
+        <h2>Password : exodia</h2>
+        </li>
+
+      </ul>
+
+    </div>
+
     </div>
   );
 }
@@ -91,6 +106,25 @@ function Banner() {
         alt="Exodia Demo"
       />
 
+    </div>
+  );
+}
+
+function user() {
+  return (
+    <div className="homePage_desc">
+      <h1>Exodia</h1>
+
+      <ul>
+        <li>
+        User : liveuser
+        </li>
+
+        <li>
+        Password : exodia
+        </li>
+
+      </ul>
     </div>
   );
 }
