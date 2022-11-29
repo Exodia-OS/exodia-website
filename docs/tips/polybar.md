@@ -39,10 +39,6 @@ nvim ~/.config/bspwm/polybar/scripts/notification-github.sh
 
 - set `TOKEN` to `your accessTokens`
 
-- finally
-
-![](/img/tips/github/7.png)
-
 </details>
 
 
@@ -119,5 +115,8 @@ elif [[ "$Bar" == "tokyo" ]]; then
 
 ![](/img/tips/multiBars/6.png)
 
+- finally
+
+![](/img/tips/multiBars/7.png)
 
 </details>
