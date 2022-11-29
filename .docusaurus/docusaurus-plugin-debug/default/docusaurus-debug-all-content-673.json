@@ -119,7 +119,7 @@
               "unversionedId": "tips/polybar",
               "id": "tips/polybar",
               "title": "polybar",
-              "description": "GitHub Module",
+              "description": "Polybar Modules",
               "source": "@site/docs/tips/polybar.md",
               "sourceDirName": "tips",
               "slug": "/tips/polybar",

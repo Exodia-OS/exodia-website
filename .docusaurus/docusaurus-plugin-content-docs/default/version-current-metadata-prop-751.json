@@ -83,7 +83,7 @@
     "tips/polybar": {
       "id": "tips/polybar",
       "title": "polybar",
-      "description": "GitHub Module",
+      "description": "Polybar Modules",
       "sidebar": "config"
     }
   }
