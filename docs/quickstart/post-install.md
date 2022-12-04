@@ -9,8 +9,20 @@ for `PGP signature` error or `invalid or corrupted package`
 ```bash
 sudo pacman-key --populate
 ```
+
 <details>
-   <summary><h2> for **v2022.11** Release</h2></summary>
+   <summary><h3> for Predator (v2022.11) Release</h3></summary>
+
+   now `Predator-Sense-systemd-git` pkg is updated, renamed to `Predator-Sense-CLI`
+   and added new pkg `Predator-Sense-GUI` which is The GUI implementation of Predator Sense CLI app.
+
+   to install new PKGs, you need to run the 2 commands below
+
+   ```bash
+   remove Predator-Sense-systemd-git
+   install exodia-predator-apps
+   ```
+   then **reboot** the machine
 
    to install grub theme 
 
@@ -22,7 +34,19 @@ sudo pacman-key --populate
 </details>
 
 <details>
-   <summary><h2> for `v2022.09` Release `exodia-home-2022.09.20-x86_64.iso` </h2></summary>
+   <summary><h3> for (v2022.11) Release</h3></summary>
+
+   to install grub theme 
+
+   ```bash
+   sudo cp -r /usr/share/grub/themes/exodia/ /boot/grub/themes/
+   sudo grub-mkconfig -o /boot/grub/grub.cfg
+   ```
+
+</details>
+
+<details>
+   <summary><h3> for (v2022.09) Release (exodia-home-2022.09.20-x86_64.iso) </h3></summary>
 
 
 #### removed the `exodia-wireless-tools-repo ` and `exodia-wireless-extra-tools-repo` Repos
