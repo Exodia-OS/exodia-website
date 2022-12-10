@@ -46,7 +46,7 @@ function Banner() {
 
         <div className="bannerBtns">
         <Link
-          to="https://drive.google.com/file/d/1fHboN_4K0c6mpO4ed4Ub71Reo-9q68N5/view?usp=share_link"
+          to="https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link"
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
@@ -57,7 +57,7 @@ function Banner() {
         
           <br/>
         <Link
-          to="https://drive.google.com/file/d/1UrsFFADkVrada_s0IJo_BjlgeT3Q36tn/view?usp=share_link"
+          to="https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />
