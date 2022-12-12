@@ -67,7 +67,7 @@ function Banner() {
         
           <br/>
         <Link
-          to="https://github.com/Exodia-OS/exodia-wireless-ISO"
+          to="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/download.png" />
