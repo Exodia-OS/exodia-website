@@ -13,7 +13,7 @@ function BannerText() {
          
         <div className="bannerContent"> 
           
-          <h2 align="center">a highly customized arch-based distro For All Cybersecurity fields.</h2>
+          <h2 align="center">A highly customized arch-based distro For All Cybersecurity fields.</h2>
           <h2>It comes with other special editions as well.</h2> 
         
         </div>
