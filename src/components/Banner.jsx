@@ -45,6 +45,9 @@ function Banner() {
       <BannerText />
 
         <div className="bannerBtns">
+
+{/*  */}
+
         <Link
           to="https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link"
           style={{ textDecoration: "none" }}
@@ -54,6 +57,8 @@ function Banner() {
           Home
           </button>
         </Link>
+
+{/*  */}
         
           <br/>
         <Link
@@ -64,7 +69,9 @@ function Banner() {
             Predator
           </button>
         </Link>
-        
+
+{/*  */}
+
           <br/>
         <Link
           to="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link"
@@ -74,7 +81,9 @@ function Banner() {
            Wireless
           </button>
         </Link>
-        
+
+{/*  */}
+
         <br/>
         <Link
           to="https://fosstorrents.com/distributions/exodia-os/"
@@ -85,6 +94,8 @@ function Banner() {
           </button>
         </Link>
 
+{/*  */}
+
       <br/>
         <Link
           to="https://sourceforge.net/projects/exodia-releases/files/"
@@ -94,6 +105,20 @@ function Banner() {
            sourceforge
           </button>
         </Link>
+
+{/*  */}
+
+        <br/>
+        <Link
+          to="https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig"
+          style={{ textDecoration: "none" }}>
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+           MEGA (soon)
+          </button>
+        </Link>
+
+{/*  */}
 
       </div>
 
