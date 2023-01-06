@@ -114,7 +114,7 @@ function Banner() {
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />
-           MEGA (soon)
+           MEGA
           </button>
         </Link>
 
