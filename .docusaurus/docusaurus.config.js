@@ -126,7 +126,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Mahmoud Mohamed | Cyb3rTh1eveZ Team"
+      "copyright": "Copyright © 2023 Mahmoud Mohamed | Cyb3rTh1eveZ Team"
     },
     "prism": {
       "additionalLanguages": []

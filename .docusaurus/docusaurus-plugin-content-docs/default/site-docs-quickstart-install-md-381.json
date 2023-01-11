@@ -2,7 +2,7 @@
   "unversionedId": "quickstart/install",
   "id": "quickstart/install",
   "title": "Install",
-  "description": "",
+  "description": "install video",
   "source": "@site/docs/quickstart/install.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/install",

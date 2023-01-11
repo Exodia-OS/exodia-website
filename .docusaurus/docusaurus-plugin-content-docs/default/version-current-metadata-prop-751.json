@@ -29,6 +29,12 @@
             "label": "polybar",
             "href": "/exodia-website/tips/polybar",
             "docId": "tips/polybar"
+          },
+          {
+            "type": "link",
+            "label": "sddm",
+            "href": "/exodia-website/tips/sddm",
+            "docId": "tips/sddm"
           }
         ],
         "collapsed": true,
@@ -60,7 +66,7 @@
     "quickstart/install": {
       "id": "quickstart/install",
       "title": "Install",
-      "description": "",
+      "description": "install video",
       "sidebar": "config"
     },
     "quickstart/post-install": {
@@ -84,6 +90,12 @@
       "id": "tips/polybar",
       "title": "polybar",
       "description": "Polybar Modules",
+      "sidebar": "config"
+    },
+    "tips/sddm": {
+      "id": "tips/sddm",
+      "title": "sddm",
+      "description": "Changing SDDM user picture",
       "sidebar": "config"
     }
   }

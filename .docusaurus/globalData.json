@@ -38,6 +38,11 @@
               "id": "tips/polybar",
               "path": "/exodia-website/tips/polybar",
               "sidebar": "config"
+            },
+            {
+              "id": "tips/sddm",
+              "path": "/exodia-website/tips/sddm",
+              "sidebar": "config"
             }
           ],
           "sidebars": {
