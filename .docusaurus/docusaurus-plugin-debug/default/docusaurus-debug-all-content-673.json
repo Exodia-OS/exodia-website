@@ -33,8 +33,8 @@
               },
               "sidebar": "config",
               "previous": {
-                "title": "sddm",
-                "permalink": "/exodia-website/tips/sddm"
+                "title": "Set keyboard Layout",
+                "permalink": "/exodia-website/tips/keyboardLayout"
               }
             },
             {
@@ -116,6 +116,31 @@
               "sidebar": "testside"
             },
             {
+              "unversionedId": "tips/keyboardLayout",
+              "id": "tips/keyboardLayout",
+              "title": "Set keyboard Layout",
+              "description": "- edit bspwmrc",
+              "source": "@site/docs/tips/keyboardLayout.md",
+              "sourceDirName": "tips",
+              "slug": "/tips/keyboardLayout",
+              "permalink": "/exodia-website/tips/keyboardLayout",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "keyboardLayout",
+                "title": "Set keyboard Layout"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "sddm",
+                "permalink": "/exodia-website/tips/sddm"
+              },
+              "next": {
+                "title": "Keybinding",
+                "permalink": "/exodia-website/Keybinding"
+              }
+            },
+            {
               "unversionedId": "tips/polybar",
               "id": "tips/polybar",
               "title": "polybar",
@@ -161,8 +186,8 @@
                 "permalink": "/exodia-website/tips/polybar"
               },
               "next": {
-                "title": "Keybinding",
-                "permalink": "/exodia-website/Keybinding"
+                "title": "Set keyboard Layout",
+                "permalink": "/exodia-website/tips/keyboardLayout"
               }
             }
           ],
@@ -187,6 +212,10 @@
                   {
                     "type": "doc",
                     "id": "tips/sddm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tips/keyboardLayout"
                   }
                 ],
                 "collapsed": true,

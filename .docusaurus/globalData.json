@@ -35,6 +35,11 @@
               "sidebar": "testside"
             },
             {
+              "id": "tips/keyboardLayout",
+              "path": "/exodia-website/tips/keyboardLayout",
+              "sidebar": "config"
+            },
+            {
               "id": "tips/polybar",
               "path": "/exodia-website/tips/polybar",
               "sidebar": "config"

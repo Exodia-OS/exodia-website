@@ -35,6 +35,12 @@
             "label": "sddm",
             "href": "/exodia-website/tips/sddm",
             "docId": "tips/sddm"
+          },
+          {
+            "type": "link",
+            "label": "Set keyboard Layout",
+            "href": "/exodia-website/tips/keyboardLayout",
+            "docId": "tips/keyboardLayout"
           }
         ],
         "collapsed": true,
@@ -85,6 +91,12 @@
       "title": "Themes",
       "description": "🍁 Themes 🍁",
       "sidebar": "testside"
+    },
+    "tips/keyboardLayout": {
+      "id": "tips/keyboardLayout",
+      "title": "Set keyboard Layout",
+      "description": "- edit bspwmrc",
+      "sidebar": "config"
     },
     "tips/polybar": {
       "id": "tips/polybar",
