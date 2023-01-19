@@ -45,8 +45,13 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','8dc'),
+    component: ComponentCreator('/exodia-website/','0af'),
     routes: [
+      {
+        path: '/exodia-website/Contributing/wiki',
+        component: ComponentCreator('/exodia-website/Contributing/wiki','af5'),
+        exact: true
+      },
       {
         path: '/exodia-website/Keybinding',
         component: ComponentCreator('/exodia-website/Keybinding','949'),
