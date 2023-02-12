@@ -45,11 +45,11 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','0af'),
+    component: ComponentCreator('/exodia-website/','671'),
     routes: [
       {
-        path: '/exodia-website/Contributing/wiki',
-        component: ComponentCreator('/exodia-website/Contributing/wiki','af5'),
+        path: '/exodia-website/Contributing/Contributing',
+        component: ComponentCreator('/exodia-website/Contributing/Contributing','17b'),
         exact: true
       },
       {

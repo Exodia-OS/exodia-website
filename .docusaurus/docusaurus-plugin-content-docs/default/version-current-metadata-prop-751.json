@@ -63,10 +63,10 @@
     ]
   },
   "docs": {
-    "Contributing/wiki": {
-      "id": "Contributing/wiki",
-      "title": "wiki",
-      "description": "| Syntax      | Description |"
+    "Contributing/Contributing": {
+      "id": "Contributing/Contributing",
+      "title": "Contributing in wiki",
+      "description": ""
     },
     "Keybinding": {
       "id": "Keybinding",

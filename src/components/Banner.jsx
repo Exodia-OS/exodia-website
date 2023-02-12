@@ -24,11 +24,11 @@ function BannerText() {
         
       <ul>
         <li>
-        <h2>User : liveuser</h2>
+        <h2>User : <code>liveuser</code> </h2>
         </li>
 
         <li>
-        <h2>Password : exodia</h2>
+        <h2>Password : <code>exodia</code> </h2>
         </li>
 
       </ul>
@@ -117,6 +117,20 @@ function Banner() {
            MEGA
           </button>
         </Link>
+
+{/*  */}
+
+        <Link
+          to="https://t.me/exodia_os"
+          style={{ textDecoration: "none" }}
+        >
+          <button className="banner_btn">
+           <img src="icons/download.png" />
+           TELEGRAM
+          </button>
+        </Link>
+
+
 
 {/*  */}
 

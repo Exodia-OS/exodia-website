@@ -17,17 +17,20 @@
           "contentPathLocalized": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "Contributing/wiki",
-              "id": "Contributing/wiki",
-              "title": "wiki",
-              "description": "| Syntax      | Description |",
+              "unversionedId": "Contributing/Contributing",
+              "id": "Contributing/Contributing",
+              "title": "Contributing in wiki",
+              "description": "",
               "source": "@site/docs/Contributing/wiki.md",
               "sourceDirName": "Contributing",
-              "slug": "/Contributing/wiki",
-              "permalink": "/exodia-website/Contributing/wiki",
+              "slug": "/Contributing/Contributing",
+              "permalink": "/exodia-website/Contributing/Contributing",
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "id": "Contributing",
+                "title": "Contributing in wiki"
+              }
             },
             {
               "unversionedId": "Keybinding",

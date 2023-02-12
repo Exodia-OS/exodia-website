@@ -11,8 +11,8 @@
           "mainDocId": "quickstart/install",
           "docs": [
             {
-              "id": "Contributing/wiki",
-              "path": "/exodia-website/Contributing/wiki"
+              "id": "Contributing/Contributing",
+              "path": "/exodia-website/Contributing/Contributing"
             },
             {
               "id": "Keybinding",

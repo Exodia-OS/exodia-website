@@ -15,7 +15,7 @@ const FeatureList = [
     title: "TUI Apps",
     description: (
       <>
-        support a whole bunch of TUI Apps<br/>RUN `pacman -Sg Exodia-TUI-Apps`<br/>to list all available apps
+        support a whole bunch of TUI Apps<br/>RUN <code>pacman -Sg Exodia-TUI-Apps</code> <br/>to list all available apps
       </>
     ),
   },
@@ -48,10 +48,10 @@ const FeatureList = [
   },
   
   {
-    title: "Predator Sense CLI",
+    title: "Predator Sense App",
     description: (
       <>
-       a kernel module to control keyboard RGB & fan speed in Linux for Acer Predator Laptops
+       a kernel module to control keyboard RGB & fan speed in Linux for Acer Predator Laptops <br/> there are 2 apps CLI and GUI <br/> <code>Predator-Sense-CLI</code> <br/> <code>Predator-Sense-GUI</code>
       </>
     ),
   },

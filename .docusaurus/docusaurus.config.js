@@ -53,6 +53,10 @@ export default {
         {
           "href": "https://discord.gg/wPDyfR5AV9",
           "position": "right"
+        },
+        {
+          "href": "https://t.me/exodia_os",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
