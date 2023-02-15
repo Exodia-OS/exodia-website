@@ -111,7 +111,7 @@ const FeatureList = [
     title: "Plymouth",
     description: (
       <>
-       supporting Plymouth<br/> exodia-plymouth theme is available
+       supporting <code>Plymouth</code> <br/> <code>exodia-plymouth</code> theme is available
       </>
     ),
   },
