@@ -83,8 +83,8 @@ export default {
               "position": "right"
             },
             {
-              "label": "contact Publisher",
-              "href": "https://github.com/mmsaeed509#contact-me",
+              "label": "Publisher",
+              "href": "https://portfolio-mmsaeed509.vercel.app/",
               "position": "right"
             }
           ]
