@@ -57,7 +57,7 @@ module.exports = {
         },
 
         {
-          href: "https://t.me/exodia_os",
+          href: "https://t.me/exodiaos",
           position: "right",
         },
 
