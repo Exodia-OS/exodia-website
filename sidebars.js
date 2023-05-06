@@ -9,6 +9,7 @@ const sidebars = {
         "tips/polybar",
         "tips/sddm",
         "tips/keyboardLayout",
+        "tips/monitors",
       
       ],
     },

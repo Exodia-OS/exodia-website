@@ -49,8 +49,8 @@
               },
               "sidebar": "config",
               "previous": {
-                "title": "Set keyboard Layout",
-                "permalink": "/exodia-website/tips/keyboardLayout"
+                "title": "setup monitors",
+                "permalink": "/exodia-website/tips/monitors"
               }
             },
             {
@@ -152,6 +152,31 @@
                 "permalink": "/exodia-website/tips/sddm"
               },
               "next": {
+                "title": "setup monitors",
+                "permalink": "/exodia-website/tips/monitors"
+              }
+            },
+            {
+              "unversionedId": "tips/monitors",
+              "id": "tips/monitors",
+              "title": "setup monitors",
+              "description": "- use arandr to configure monitors",
+              "source": "@site/docs/tips/monitors.md",
+              "sourceDirName": "tips",
+              "slug": "/tips/monitors",
+              "permalink": "/exodia-website/tips/monitors",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "monitors",
+                "title": "setup monitors"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "Set keyboard Layout",
+                "permalink": "/exodia-website/tips/keyboardLayout"
+              },
+              "next": {
                 "title": "Keybinding",
                 "permalink": "/exodia-website/Keybinding"
               }
@@ -232,6 +257,10 @@
                   {
                     "type": "doc",
                     "id": "tips/keyboardLayout"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tips/monitors"
                   }
                 ],
                 "collapsed": true,

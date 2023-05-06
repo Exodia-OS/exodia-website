@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','671'),
+    component: ComponentCreator('/exodia-website/','524'),
     routes: [
       {
         path: '/exodia-website/Contributing/Contributing',
@@ -84,6 +84,12 @@ export default [
       {
         path: '/exodia-website/tips/keyboardLayout',
         component: ComponentCreator('/exodia-website/tips/keyboardLayout','624'),
+        exact: true,
+        sidebar: "config"
+      },
+      {
+        path: '/exodia-website/tips/monitors',
+        component: ComponentCreator('/exodia-website/tips/monitors','2dc'),
         exact: true,
         sidebar: "config"
       },

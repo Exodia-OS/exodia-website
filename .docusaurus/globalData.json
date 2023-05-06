@@ -44,6 +44,11 @@
               "sidebar": "config"
             },
             {
+              "id": "tips/monitors",
+              "path": "/exodia-website/tips/monitors",
+              "sidebar": "config"
+            },
+            {
               "id": "tips/polybar",
               "path": "/exodia-website/tips/polybar",
               "sidebar": "config"

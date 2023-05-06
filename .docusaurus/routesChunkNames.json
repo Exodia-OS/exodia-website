@@ -33,7 +33,7 @@
     "config": "config---exodia-website-5-e-9-c57",
     "__routeContextModule": "__routeContextModule---exodia-website-c-8-f-8b3"
   },
-  "/exodia-website/-671": {
+  "/exodia-website/-524": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---exodia-website-935-9e1",
     "__routeContextModule": "__routeContextModule---exodia-website-26-e-f32"
@@ -65,6 +65,10 @@
   "/exodia-website/tips/keyboardLayout-624": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---exodia-website-tips-keyboard-layoutd-10-856"
+  },
+  "/exodia-website/tips/monitors-2dc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---exodia-website-tips-keyboard-layout-7-cf-79e"
   },
   "/exodia-website/tips/polybar-7c0": {
     "component": "component---theme-doc-item-178-a40",

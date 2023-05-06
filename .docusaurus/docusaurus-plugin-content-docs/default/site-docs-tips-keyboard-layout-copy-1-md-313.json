@@ -3,7 +3,7 @@
   "id": "tips/keyboardLayout",
   "title": "Set keyboard Layout",
   "description": "- edit bspwmrc",
-  "source": "@site/docs/tips/keyboardLayout.md",
+  "source": "@site/docs/tips/keyboardLayout (copy 1).md",
   "sourceDirName": "tips",
   "slug": "/tips/keyboardLayout",
   "permalink": "/exodia-website/tips/keyboardLayout",
@@ -19,7 +19,7 @@
     "permalink": "/exodia-website/tips/sddm"
   },
   "next": {
-    "title": "setup monitors",
-    "permalink": "/exodia-website/tips/monitors"
+    "title": "Set keyboard Layout",
+    "permalink": "/exodia-website/tips/keyboardLayout"
   }
 }

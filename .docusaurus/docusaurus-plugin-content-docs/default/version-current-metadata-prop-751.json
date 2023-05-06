@@ -41,6 +41,12 @@
             "label": "Set keyboard Layout",
             "href": "/exodia-website/tips/keyboardLayout",
             "docId": "tips/keyboardLayout"
+          },
+          {
+            "type": "link",
+            "label": "setup monitors",
+            "href": "/exodia-website/tips/monitors",
+            "docId": "tips/monitors"
           }
         ],
         "collapsed": true,
@@ -101,6 +107,12 @@
       "id": "tips/keyboardLayout",
       "title": "Set keyboard Layout",
       "description": "- edit bspwmrc",
+      "sidebar": "config"
+    },
+    "tips/monitors": {
+      "id": "tips/monitors",
+      "title": "setup monitors",
+      "description": "- use arandr to configure monitors",
       "sidebar": "config"
     },
     "tips/polybar": {
