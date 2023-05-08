@@ -35,7 +35,7 @@
             {
               "unversionedId": "Keybinding",
               "id": "Keybinding",
-              "title": "Keybinding",
+              "title": "bspwm Keybinding",
               "description": "Keybinding ⌨️",
               "source": "@site/docs/Keybinding.md",
               "sourceDirName": ".",
@@ -45,12 +45,37 @@
               "version": "current",
               "frontMatter": {
                 "id": "Keybinding",
-                "title": "Keybinding"
+                "title": "bspwm Keybinding"
               },
               "sidebar": "config",
               "previous": {
                 "title": "setup monitors",
                 "permalink": "/exodia-website/tips/monitors"
+              },
+              "next": {
+                "title": "dwm Keybinding",
+                "permalink": "/exodia-website/keybindings/dwm"
+              }
+            },
+            {
+              "unversionedId": "keybindings/dwm",
+              "id": "keybindings/dwm",
+              "title": "dwm Keybinding",
+              "description": "DWM Keybinding ⌨️",
+              "source": "@site/docs/keybindings/dwm.md",
+              "sourceDirName": "keybindings",
+              "slug": "/keybindings/dwm",
+              "permalink": "/exodia-website/keybindings/dwm",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "dwm",
+                "title": "dwm Keybinding"
+              },
+              "sidebar": "config",
+              "previous": {
+                "title": "bspwm Keybinding",
+                "permalink": "/exodia-website/Keybinding"
               }
             },
             {
@@ -177,7 +202,7 @@
                 "permalink": "/exodia-website/tips/keyboardLayout"
               },
               "next": {
-                "title": "Keybinding",
+                "title": "bspwm Keybinding",
                 "permalink": "/exodia-website/Keybinding"
               }
             },
@@ -269,6 +294,10 @@
               {
                 "type": "doc",
                 "id": "Keybinding"
+              },
+              {
+                "type": "doc",
+                "id": "keybindings/dwm"
               }
             ],
             "testside": [

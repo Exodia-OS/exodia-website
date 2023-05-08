@@ -20,6 +20,11 @@
               "sidebar": "config"
             },
             {
+              "id": "keybindings/dwm",
+              "path": "/exodia-website/keybindings/dwm",
+              "sidebar": "config"
+            },
+            {
               "id": "quickstart/install",
               "path": "/exodia-website/quickstart/install",
               "sidebar": "config"

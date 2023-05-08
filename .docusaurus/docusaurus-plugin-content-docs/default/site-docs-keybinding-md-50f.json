@@ -1,7 +1,7 @@
 {
   "unversionedId": "Keybinding",
   "id": "Keybinding",
-  "title": "Keybinding",
+  "title": "bspwm Keybinding",
   "description": "Keybinding ⌨️",
   "source": "@site/docs/Keybinding.md",
   "sourceDirName": ".",
@@ -11,11 +11,15 @@
   "version": "current",
   "frontMatter": {
     "id": "Keybinding",
-    "title": "Keybinding"
+    "title": "bspwm Keybinding"
   },
   "sidebar": "config",
   "previous": {
     "title": "setup monitors",
     "permalink": "/exodia-website/tips/monitors"
+  },
+  "next": {
+    "title": "dwm Keybinding",
+    "permalink": "/exodia-website/keybindings/dwm"
   }
 }

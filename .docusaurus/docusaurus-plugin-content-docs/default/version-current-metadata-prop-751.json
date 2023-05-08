@@ -54,9 +54,15 @@
       },
       {
         "type": "link",
-        "label": "Keybinding",
+        "label": "bspwm Keybinding",
         "href": "/exodia-website/Keybinding",
         "docId": "Keybinding"
+      },
+      {
+        "type": "link",
+        "label": "dwm Keybinding",
+        "href": "/exodia-website/keybindings/dwm",
+        "docId": "keybindings/dwm"
       }
     ],
     "testside": [
@@ -76,8 +82,14 @@
     },
     "Keybinding": {
       "id": "Keybinding",
-      "title": "Keybinding",
+      "title": "bspwm Keybinding",
       "description": "Keybinding ⌨️",
+      "sidebar": "config"
+    },
+    "keybindings/dwm": {
+      "id": "keybindings/dwm",
+      "title": "dwm Keybinding",
+      "description": "DWM Keybinding ⌨️",
       "sidebar": "config"
     },
     "quickstart/install": {

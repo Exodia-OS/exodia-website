@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','524'),
+    component: ComponentCreator('/exodia-website/','787'),
     routes: [
       {
         path: '/exodia-website/Contributing/Contributing',
@@ -55,6 +55,12 @@ export default [
       {
         path: '/exodia-website/Keybinding',
         component: ComponentCreator('/exodia-website/Keybinding','949'),
+        exact: true,
+        sidebar: "config"
+      },
+      {
+        path: '/exodia-website/keybindings/dwm',
+        component: ComponentCreator('/exodia-website/keybindings/dwm','5d5'),
         exact: true,
         sidebar: "config"
       },

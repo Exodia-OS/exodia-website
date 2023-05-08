@@ -1,6 +1,6 @@
 ---
 id: Keybinding
-title: Keybinding
+title: bspwm Keybinding
 ---
 <h1 align="center"> Keybinding ⌨️  </h1>
 

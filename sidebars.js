@@ -1,5 +1,6 @@
 const sidebars = {
   config: [
+    
     {
       type: "category",
       label: "Quickstart",
@@ -10,11 +11,14 @@ const sidebars = {
         "tips/sddm",
         "tips/keyboardLayout",
         "tips/monitors",
+        
       
       ],
     },
     
     "Keybinding",
+    "keybindings/dwm",
+    
   ],
 
   testside: [
