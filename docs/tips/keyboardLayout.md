@@ -3,9 +3,10 @@ id: keyboardLayout
 title: Set keyboard Layout
 ---
 
-<!-- ![](/img/tips/keyboardLayouts/Layouts.jpg) -->
+<details>
+   <summary><h3> for (v2022.12) Release or less </h3></summary>
 
-![](/img/tips/keyboardLayouts/en.png) ![](/img/tips/keyboardLayouts/ar.png)
+   ![](/img/tips/keyboardLayouts/en.png) ![](/img/tips/keyboardLayouts/ar.png)
 
 
 - edit `bspwmrc`
@@ -26,3 +27,6 @@ title: Set keyboard Layout
   
   - List Layouts `localectl list-x11-keymap-layouts`
   - all [Layouts](https://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements)
+  
+  
+</details>
