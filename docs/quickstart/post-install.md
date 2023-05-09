@@ -10,6 +10,13 @@ for `PGP signature` error or `invalid or corrupted package`
 sudo pacman-key --populate
 ```
 
+Not resolved yet?
+Ok, try this
+
+```bash
+yay -Syy archlinux-keyring
+```
+
 <details>
    <summary><h3> for Predator (v2022.11) Release</h3></summary>
 
