@@ -160,7 +160,7 @@
               "unversionedId": "tips/keyboardLayout",
               "id": "tips/keyboardLayout",
               "title": "Set keyboard Layout",
-              "description": "- edit bspwmrc",
+              "description": "for (v2022.12) Release or less",
               "source": "@site/docs/tips/keyboardLayout.md",
               "sourceDirName": "tips",
               "slug": "/tips/keyboardLayout",

@@ -4,7 +4,7 @@ import clsx from "clsx";
 const FeatureList = [
   {
     title: "Home",
-    imgSrc: "logos/Exodia.png",
+    imgSrc: "logos/exodia-cyan.png",
     description: (
       <>
         This Edition is a general purpose operating system with the typical Exodia OS look and feel. This edition is designed for daily use, privacy and software development.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: "Wireless",
-    imgSrc: "logos/Exodia.png",
+    imgSrc: "logos/exodia-cyan.png",
     description: (
       <>
        This Edition is For penetration testing (and especially for Wireless PenTesting)

@@ -9,7 +9,7 @@ function BannerText() {
       </h1>
       
       <p>
-      <img align="center" width="200px" src="img/Exodia.png"/>
+      <img align="center" width="200px" src="logos/exodia-cyan.png"/>
          
         <div className="bannerContent"> 
           
@@ -53,7 +53,7 @@ function Banner() {
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
           Home
           </button>
         </Link>
@@ -65,7 +65,7 @@ function Banner() {
           to="https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
             Predator
           </button>
         </Link>
@@ -77,7 +77,7 @@ function Banner() {
           to="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
            Wireless
           </button>
         </Link>
@@ -89,7 +89,7 @@ function Banner() {
           to="https://fosstorrents.com/distributions/exodia-os/"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
            FOSS Torrents
           </button>
         </Link>
@@ -101,7 +101,7 @@ function Banner() {
           to="https://sourceforge.net/projects/exodia-releases/files/"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
            sourceforge
           </button>
         </Link>
@@ -113,7 +113,7 @@ function Banner() {
           to="https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
            MEGA
           </button>
         </Link>
@@ -125,7 +125,7 @@ function Banner() {
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
-           <img src="icons/download.png" />
+           <img src="icons/download-cyan.png" />
            TELEGRAM
           </button>
         </Link>
