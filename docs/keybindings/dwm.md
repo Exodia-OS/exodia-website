@@ -7,7 +7,11 @@ title: dwm Keybinding
 ### install 
 
 ```bash
-install exodia-dwm-beta
+install exodia-dwm
+
+# OR
+
+install exodia-dwm-predator # For Predator Edition
 ```
 mod -> super (window key)
 

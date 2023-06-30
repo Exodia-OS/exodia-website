@@ -63,6 +63,12 @@
         "label": "dwm Keybinding",
         "href": "/exodia-website/keybindings/dwm",
         "docId": "keybindings/dwm"
+      },
+      {
+        "type": "link",
+        "label": "i3wm Keybinding",
+        "href": "/exodia-website/keybindings/i3wm",
+        "docId": "keybindings/i3wm"
       }
     ],
     "testside": [
@@ -90,6 +96,12 @@
       "id": "keybindings/dwm",
       "title": "dwm Keybinding",
       "description": "DWM Keybinding ⌨️",
+      "sidebar": "config"
+    },
+    "keybindings/i3wm": {
+      "id": "keybindings/i3wm",
+      "title": "i3wm Keybinding",
+      "description": "i3WM Keybinding ⌨️",
       "sidebar": "config"
     },
     "quickstart/install": {

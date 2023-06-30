@@ -4,6 +4,16 @@ title: bspwm Keybinding
 ---
 <h1 align="center"> Keybinding ⌨️  </h1>
 
+### install 
+
+```bash
+install exodia-bspwm
+
+# OR
+
+install exodia-bspwm-predator # For Predator Edition
+```
+
 mod -> super (window key)
 
 | Keys | Action |

@@ -25,6 +25,11 @@
               "sidebar": "config"
             },
             {
+              "id": "keybindings/i3wm",
+              "path": "/exodia-website/keybindings/i3wm",
+              "sidebar": "config"
+            },
+            {
               "id": "quickstart/install",
               "path": "/exodia-website/quickstart/install",
               "sidebar": "config"

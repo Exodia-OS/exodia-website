@@ -33,7 +33,7 @@
     "config": "config---exodia-website-5-e-9-c57",
     "__routeContextModule": "__routeContextModule---exodia-website-c-8-f-8b3"
   },
-  "/exodia-website/-787": {
+  "/exodia-website/-98d": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---exodia-website-935-9e1",
     "__routeContextModule": "__routeContextModule---exodia-website-26-e-f32"
@@ -49,6 +49,10 @@
   "/exodia-website/keybindings/dwm-5d5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---exodia-website-keybindings-dwm-11-b-000"
+  },
+  "/exodia-website/keybindings/i3wm-6d2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---exodia-website-keybindings-i-3-wme-73-d5d"
   },
   "/exodia-website/quickstart/install-220": {
     "component": "component---theme-doc-item-178-a40",

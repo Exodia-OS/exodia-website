@@ -1,0 +1,16 @@
+{
+  "unversionedId": "keybindings/i3wm",
+  "id": "keybindings/i3wm",
+  "title": "I3wm",
+  "description": "For Archcraft community members, Edit the page.",
+  "source": "@site/docs/keybindings/i3wm.mdx",
+  "sourceDirName": "keybindings",
+  "slug": "/keybindings/i3wm",
+  "permalink": "/exodia-website/keybindings/i3wm",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

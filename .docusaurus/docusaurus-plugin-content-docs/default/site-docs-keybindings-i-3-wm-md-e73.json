@@ -1,0 +1,21 @@
+{
+  "unversionedId": "keybindings/i3wm",
+  "id": "keybindings/i3wm",
+  "title": "i3wm Keybinding",
+  "description": "i3WM Keybinding ⌨️",
+  "source": "@site/docs/keybindings/i3wm.md",
+  "sourceDirName": "keybindings",
+  "slug": "/keybindings/i3wm",
+  "permalink": "/exodia-website/keybindings/i3wm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "i3wm",
+    "title": "i3wm Keybinding"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "dwm Keybinding",
+    "permalink": "/exodia-website/keybindings/dwm"
+  }
+}

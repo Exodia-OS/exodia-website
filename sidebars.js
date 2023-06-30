@@ -18,6 +18,7 @@ const sidebars = {
     
     "Keybinding",
     "keybindings/dwm",
+    "keybindings/i3wm",
     
   ],
 
