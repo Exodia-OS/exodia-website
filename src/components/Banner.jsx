@@ -49,7 +49,7 @@ function Banner() {
 {/*  */}
 
         <Link
-          to="https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link"
+          to="https://drive.google.com/drive/folders/1R5bZhI8yGfr9Z3Xq_QWnUIK1qvh42a2_?usp=sharing"
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
