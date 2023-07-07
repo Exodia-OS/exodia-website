@@ -62,7 +62,7 @@ function Banner() {
         
           <br/>
         <Link
-          to="https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link"
+          to="https://drive.google.com/drive/folders/1RHyGWLOTf4mtoVpHpGzNOJRZ8UnZI2PR?usp=sharing"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download-cyan.png" />
@@ -74,7 +74,7 @@ function Banner() {
 
           <br/>
         <Link
-          to="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link"
+          to="https://drive.google.com/drive/folders/1i5AJHBkvmYWlCWQYHKKSlFv5ogmnyW5b?usp=sharing"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/download-cyan.png" />
