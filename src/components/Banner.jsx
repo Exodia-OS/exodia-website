@@ -108,7 +108,8 @@ function Banner() {
 
 {/*  */}
 
-        <br/>
+{/* 
+<br/>
         <Link
           to="https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig"
           style={{ textDecoration: "none" }}>
@@ -116,7 +117,8 @@ function Banner() {
            <img src="icons/download-cyan.png" />
            MEGA
           </button>
-        </Link>
+        </Link> 
+        */}
 
 {/*  */}
 
