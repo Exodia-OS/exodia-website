@@ -5,7 +5,7 @@ title: Themes
 
 <h1 align="center"> 🍁 Themes 🍁 </h1> 
 
-![](/img/themes/GIFs/themes.gif)
+![](/img/themes/themes.png)
 
 > **_NOTE:_**   
 >
