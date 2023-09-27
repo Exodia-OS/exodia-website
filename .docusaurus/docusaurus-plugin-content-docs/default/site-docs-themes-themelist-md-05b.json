@@ -13,5 +13,9 @@
     "id": "themelist",
     "title": "Themes"
   },
-  "sidebar": "testside"
+  "sidebar": "testside",
+  "next": {
+    "title": "bspwm Themes",
+    "permalink": "/exodia-website/themes/bspwm"
+  }
 }

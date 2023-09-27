@@ -5,47 +5,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/exodia-website/__docusaurus/debug',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug','3fe'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug','b6a'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/config',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/config','930'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/config','a46'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/content',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/content','346'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/content','98c'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/globalData',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/globalData','76d'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/globalData','73c'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/metadata',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/metadata','714'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/metadata','aa2'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/registry',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/registry','638'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/registry','675'),
     exact: true
   },
   {
     path: '/exodia-website/__docusaurus/debug/routes',
-    component: ComponentCreator('/exodia-website/__docusaurus/debug/routes','c91'),
+    component: ComponentCreator('/exodia-website/__docusaurus/debug/routes','e1d'),
     exact: true
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','1a1'),
+    component: ComponentCreator('/exodia-website/','028'),
     exact: true
   },
   {
     path: '/exodia-website/',
-    component: ComponentCreator('/exodia-website/','98d'),
+    component: ComponentCreator('/exodia-website/','4b8'),
     routes: [
       {
         path: '/exodia-website/Contributing/Contributing',
@@ -83,9 +83,27 @@ export default [
         sidebar: "config"
       },
       {
+        path: '/exodia-website/themes/bspwm',
+        component: ComponentCreator('/exodia-website/themes/bspwm','e97'),
+        exact: true,
+        sidebar: "testside"
+      },
+      {
+        path: '/exodia-website/themes/dwm',
+        component: ComponentCreator('/exodia-website/themes/dwm','d6b'),
+        exact: true,
+        sidebar: "testside"
+      },
+      {
         path: '/exodia-website/themes/glassy',
         component: ComponentCreator('/exodia-website/themes/glassy','549'),
         exact: true
+      },
+      {
+        path: '/exodia-website/themes/i3wm',
+        component: ComponentCreator('/exodia-website/themes/i3wm','33a'),
+        exact: true,
+        sidebar: "testside"
       },
       {
         path: '/exodia-website/themes/themelist',

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "themes/i3wm",
+  "id": "themes/i3wm",
+  "title": "i3wm Themes",
+  "description": "🍁 i3wm 🍁",
+  "source": "@site/docs/themes/i3wm.md",
+  "sourceDirName": "themes",
+  "slug": "/themes/i3wm",
+  "permalink": "/exodia-website/themes/i3wm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "i3wm",
+    "title": "i3wm Themes"
+  },
+  "sidebar": "testside",
+  "previous": {
+    "title": "dwm Themes",
+    "permalink": "/exodia-website/themes/dwm"
+  }
+}

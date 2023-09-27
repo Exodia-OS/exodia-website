@@ -1,0 +1,17 @@
+{
+  "unversionedId": "themes/themelist",
+  "id": "themes/themelist",
+  "title": "Themes",
+  "description": "🍁 Themes 🍁",
+  "source": "@site/docs/themes/themelist (copy 3).md",
+  "sourceDirName": "themes",
+  "slug": "/themes/themelist",
+  "permalink": "/exodia-website/themes/themelist",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "themelist",
+    "title": "Themes"
+  },
+  "sidebar": "testside"
+}

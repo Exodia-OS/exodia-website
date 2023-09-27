@@ -1,0 +1,25 @@
+{
+  "unversionedId": "themes/dwm",
+  "id": "themes/dwm",
+  "title": "dwm Themes",
+  "description": "🍁 DWM 🍁",
+  "source": "@site/docs/themes/dwm.md",
+  "sourceDirName": "themes",
+  "slug": "/themes/dwm",
+  "permalink": "/exodia-website/themes/dwm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dwm",
+    "title": "dwm Themes"
+  },
+  "sidebar": "testside",
+  "previous": {
+    "title": "bspwm Themes",
+    "permalink": "/exodia-website/themes/bspwm"
+  },
+  "next": {
+    "title": "i3wm Themes",
+    "permalink": "/exodia-website/themes/i3wm"
+  }
+}

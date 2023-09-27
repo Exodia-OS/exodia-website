@@ -23,7 +23,10 @@ const sidebars = {
   ],
 
   testside: [
-    "themes/themelist"
+    "themes/themelist",
+    "themes/bspwm",
+    "themes/dwm",
+    "themes/i3wm"
   ]
 }
 

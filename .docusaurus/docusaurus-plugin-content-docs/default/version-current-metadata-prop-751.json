@@ -77,6 +77,24 @@
         "label": "Themes",
         "href": "/exodia-website/themes/themelist",
         "docId": "themes/themelist"
+      },
+      {
+        "type": "link",
+        "label": "bspwm Themes",
+        "href": "/exodia-website/themes/bspwm",
+        "docId": "themes/bspwm"
+      },
+      {
+        "type": "link",
+        "label": "dwm Themes",
+        "href": "/exodia-website/themes/dwm",
+        "docId": "themes/dwm"
+      },
+      {
+        "type": "link",
+        "label": "i3wm Themes",
+        "href": "/exodia-website/themes/i3wm",
+        "docId": "themes/i3wm"
       }
     ]
   },
@@ -116,10 +134,28 @@
       "description": "_NOTE:_   Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).",
       "sidebar": "config"
     },
+    "themes/bspwm": {
+      "id": "themes/bspwm",
+      "title": "bspwm Themes",
+      "description": "🍁 Themes 🍁",
+      "sidebar": "testside"
+    },
+    "themes/dwm": {
+      "id": "themes/dwm",
+      "title": "dwm Themes",
+      "description": "🍁 DWM 🍁",
+      "sidebar": "testside"
+    },
     "themes/glassy": {
       "id": "themes/glassy",
       "title": "glassy",
       "description": ""
+    },
+    "themes/i3wm": {
+      "id": "themes/i3wm",
+      "title": "i3wm Themes",
+      "description": "🍁 i3wm 🍁",
+      "sidebar": "testside"
     },
     "themes/themelist": {
       "id": "themes/themelist",

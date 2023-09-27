@@ -40,8 +40,23 @@
               "sidebar": "config"
             },
             {
+              "id": "themes/bspwm",
+              "path": "/exodia-website/themes/bspwm",
+              "sidebar": "testside"
+            },
+            {
+              "id": "themes/dwm",
+              "path": "/exodia-website/themes/dwm",
+              "sidebar": "testside"
+            },
+            {
               "id": "themes/glassy",
               "path": "/exodia-website/themes/glassy"
+            },
+            {
+              "id": "themes/i3wm",
+              "path": "/exodia-website/themes/i3wm",
+              "sidebar": "testside"
             },
             {
               "id": "themes/themelist",

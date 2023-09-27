@@ -12,9 +12,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/sidebars.js",
-          "contentPath": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/docs",
-          "contentPathLocalized": "/home/ozil/GitHub/Exodia-Repos/Exodia-Websites/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/o0xwolf/GitHub/Exodia-Repos/exodia-website/sidebars.js",
+          "contentPath": "/home/o0xwolf/GitHub/Exodia-Repos/exodia-website/docs",
+          "contentPathLocalized": "/home/o0xwolf/GitHub/Exodia-Repos/exodia-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "Contributing/Contributing",
@@ -152,6 +152,56 @@
               }
             },
             {
+              "unversionedId": "themes/bspwm",
+              "id": "themes/bspwm",
+              "title": "bspwm Themes",
+              "description": "🍁 Themes 🍁",
+              "source": "@site/docs/themes/bspwm.md",
+              "sourceDirName": "themes",
+              "slug": "/themes/bspwm",
+              "permalink": "/exodia-website/themes/bspwm",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "bspwm",
+                "title": "bspwm Themes"
+              },
+              "sidebar": "testside",
+              "previous": {
+                "title": "Themes",
+                "permalink": "/exodia-website/themes/themelist"
+              },
+              "next": {
+                "title": "dwm Themes",
+                "permalink": "/exodia-website/themes/dwm"
+              }
+            },
+            {
+              "unversionedId": "themes/dwm",
+              "id": "themes/dwm",
+              "title": "dwm Themes",
+              "description": "🍁 DWM 🍁",
+              "source": "@site/docs/themes/dwm.md",
+              "sourceDirName": "themes",
+              "slug": "/themes/dwm",
+              "permalink": "/exodia-website/themes/dwm",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "dwm",
+                "title": "dwm Themes"
+              },
+              "sidebar": "testside",
+              "previous": {
+                "title": "bspwm Themes",
+                "permalink": "/exodia-website/themes/bspwm"
+              },
+              "next": {
+                "title": "i3wm Themes",
+                "permalink": "/exodia-website/themes/i3wm"
+              }
+            },
+            {
               "unversionedId": "themes/glassy",
               "id": "themes/glassy",
               "title": "glassy",
@@ -163,6 +213,27 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
+            },
+            {
+              "unversionedId": "themes/i3wm",
+              "id": "themes/i3wm",
+              "title": "i3wm Themes",
+              "description": "🍁 i3wm 🍁",
+              "source": "@site/docs/themes/i3wm.md",
+              "sourceDirName": "themes",
+              "slug": "/themes/i3wm",
+              "permalink": "/exodia-website/themes/i3wm",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "i3wm",
+                "title": "i3wm Themes"
+              },
+              "sidebar": "testside",
+              "previous": {
+                "title": "dwm Themes",
+                "permalink": "/exodia-website/themes/dwm"
+              }
             },
             {
               "unversionedId": "themes/themelist",
@@ -179,7 +250,11 @@
                 "id": "themelist",
                 "title": "Themes"
               },
-              "sidebar": "testside"
+              "sidebar": "testside",
+              "next": {
+                "title": "bspwm Themes",
+                "permalink": "/exodia-website/themes/bspwm"
+              }
             },
             {
               "unversionedId": "tips/keyboardLayout",
@@ -333,6 +408,18 @@
               {
                 "type": "doc",
                 "id": "themes/themelist"
+              },
+              {
+                "type": "doc",
+                "id": "themes/bspwm"
+              },
+              {
+                "type": "doc",
+                "id": "themes/dwm"
+              },
+              {
+                "type": "doc",
+                "id": "themes/i3wm"
               }
             ]
           },

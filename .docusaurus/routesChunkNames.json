@@ -1,42 +1,42 @@
 {
-  "/exodia-website/__docusaurus/debug-3fe": {
+  "/exodia-website/__docusaurus/debug-b6a": {
     "component": "component---theme-debug-config-23-a-2ff",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/config-930": {
+  "/exodia-website/__docusaurus/debug/config-a46": {
     "component": "component---theme-debug-config-23-a-2ff",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/content-346": {
+  "/exodia-website/__docusaurus/debug/content-98c": {
     "component": "component---theme-debug-contentba-8-ce7",
     "allContent": "allContent---exodia-website-docusaurus-debug-content-246-668",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/globalData-76d": {
+  "/exodia-website/__docusaurus/debug/globalData-73c": {
     "component": "component---theme-debug-global-dataede-0fa",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/metadata-714": {
+  "/exodia-website/__docusaurus/debug/metadata-aa2": {
     "component": "component---theme-debug-site-metadata-68-e-3d4",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/registry-638": {
+  "/exodia-website/__docusaurus/debug/registry-675": {
     "component": "component---theme-debug-registry-679-501",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/__docusaurus/debug/routes-c91": {
+  "/exodia-website/__docusaurus/debug/routes-e1d": {
     "component": "component---theme-debug-routes-946-699",
-    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-1-be-4a8"
+    "__routeContextModule": "__routeContextModule---exodia-website-docusaurus-debug-274-243"
   },
-  "/exodia-website/-1a1": {
+  "/exodia-website/-028": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
     "config": "config---exodia-website-5-e-9-c57",
-    "__routeContextModule": "__routeContextModule---exodia-website-c-8-f-8b3"
+    "__routeContextModule": "__routeContextModule---exodia-website-645-b68"
   },
-  "/exodia-website/-98d": {
+  "/exodia-website/-4b8": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---exodia-website-935-9e1",
-    "__routeContextModule": "__routeContextModule---exodia-website-26-e-f32"
+    "__routeContextModule": "__routeContextModule---exodia-website-891-555"
   },
   "/exodia-website/Contributing/Contributing-17b": {
     "component": "component---theme-doc-item-178-a40",
@@ -62,9 +62,21 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---exodia-website-quickstart-post-install-287-a3b"
   },
+  "/exodia-website/themes/bspwm-e97": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---exodia-website-themes-bspwm-72-b-353"
+  },
+  "/exodia-website/themes/dwm-d6b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---exodia-website-themes-dwmeb-2-9d7"
+  },
   "/exodia-website/themes/glassy-549": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---exodia-website-themes-glassy-07-f-8b7"
+  },
+  "/exodia-website/themes/i3wm-33a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---exodia-website-themes-i-3-wm-8-a-0-7f9"
   },
   "/exodia-website/themes/themelist-4f3": {
     "component": "component---theme-doc-item-178-a40",
