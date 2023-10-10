@@ -9,7 +9,7 @@ export default function About() {
       <ul>
         <li>Exodia OS Comes with <b>BSPWM</b> (a tiling window manager) and 20 tailor-made fancy <b>Themes</b>.</li>
         <li><b>Cybersecurity tools</b> are preinstalled on Exodia OS, for all tracks of cybersecurity.</li>
-        <li>Currently, 3 <b>Editions</b> exist: <b>Home</b>, <b>Predator</b>, and <b>Wireless</b>.</li>
+        <li>Currently, 3 <b>Editions</b> exist: <b>Home</b>, <b>Acer-Predator</b>, and <b>Wireless</b>.</li>
         <li>Currently, 2 <b>window managers</b> are available: <b>BSPWM</b> and <b>DWM</b>, and we will add more <b>DEs</b> and <b>WMs</b>.</li>
         
       </ul>

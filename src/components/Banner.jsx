@@ -66,7 +66,7 @@ function Banner() {
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download-cyan.png" />
-            Predator
+           Acer-Predator
           </button>
         </Link>
 

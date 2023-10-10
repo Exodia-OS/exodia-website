@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: "Predator",
+    title: "Acer-Predator",
     imgSrc: "logos/Predator.png",
     description: (
       <>
