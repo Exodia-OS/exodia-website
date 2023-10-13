@@ -143,7 +143,7 @@ function Banner() {
 
       <img
         className="bannerImg"
-        src="img/desktop.png"
+        src="img/FreePalestine.png"
         alt="Exodia Demo"
       />
 
