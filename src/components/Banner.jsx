@@ -15,7 +15,7 @@ function BannerText() {
           
           <h2 align="center">A highly customized arch-based distro For All Cybersecurity fields.</h2>
           <h2>It comes with other special editions as well.</h2>
-          <h1>I stand with Palestine  Free Palestine 🇵🇸 </h1>
+          <h1>We stand with Palestine  Free Palestine 🇵🇸 </h1>
         
         </div>
         
