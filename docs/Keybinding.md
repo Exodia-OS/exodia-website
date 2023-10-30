@@ -48,7 +48,7 @@ mod -> super (window key)
 | <kbd>Control + Print</kbd> | Takes a screenshot of active window |
 | <kbd>mod + Control + Print</kbd> | Takes a screenshot of an area |
 | <kbd>mod + c</kbd> | Kill an App |
-| <kbd>mod + Escape</kbd> | Reload keybindings|
+| <kbd>mod + k</kbd> | Reload keybindings|
 | <kbd>ctrl + alt + Escape</kbd> | Use xkill to murder an App via a skull cursor of death (scary) |
 | <kbd>ctrl + shift + q</kbd> | Quit BSPWM |
 | <kbd>ctrl + shift + r</kbd> | Restart BSPWM |
