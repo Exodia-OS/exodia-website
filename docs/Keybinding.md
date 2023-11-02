@@ -65,5 +65,4 @@ mod -> super (window key)
 | <kbd>mod + ctrl + Left/Right/Up/Down</kbd> | Expand the window |
 | <kbd>mod + alt + Left/Right/Up/Down</kbd> | Shrink the window |
 | <kbd>mod + shift + i</kbd> | Hide/Unhide a window |
-
-
+| <kbd>Escape + alt + Left/Right/Up/Down</kbd> | Move floating windows |
