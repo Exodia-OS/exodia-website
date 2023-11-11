@@ -5,10 +5,40 @@ title: polybar
 
 ### Polybar Modules
 
-<!-- github-notifications -->
+<!-- weather -->
+
 <details>
 
-   <summary> <h4> github-notifications </h4> </summary>
+   <summary> <h4> <code>weather</code> Modules </h4> </summary>
+
+- create an account on [OpenWeatherMap](https://openweathermap.org/)
+- go to [API](https://home.openweathermap.org/api_keys) page
+- generate an API Key
+  - ![](/img/tips/weather/0.png)
+- copy the API Key
+  - ![](/img/tips/weather/1.png)
+- edit `~/.config/bspwm/exodia.conf`
+  - set `weather-API`
+  - ![](/img/tips/weather/2.png)
+- go to [OpenWeatherMap](https://openweathermap.org/)
+  - search for your city
+    - ![](/img/tips/weather/3.png)
+  - press on the result
+    - ![](/img/tips/weather/4.png)
+  - copy city ID
+    - ![](/img/tips/weather/5.png)
+  - edit `~/.config/bspwm/exodia.conf`
+    - set `weather-city-ID`
+    - ![](/img/tips/weather/6.png)
+    - save file and restart polybar (open terminal `bspbar`)
+
+</details>
+
+<!-- github-notifications -->
+
+<details>
+
+   <summary> <h4> <code>github-notifications</code> Modules </h4> </summary>
 
 ![](/img/tips/github/github.png)
 
@@ -41,15 +71,7 @@ nvim ~/.config/bspwm/polybar/scripts/notification-github.sh
 
 </details>
 
-
-
-
-
 <!-- ------------------------ END Polybar Modules | START OF Multi Bars ------------------------ -->
-
-
-
-
 
 ### Launching Multi Bars (polybar)
 
@@ -57,6 +79,14 @@ nvim ~/.config/bspwm/polybar/scripts/notification-github.sh
 <details>
 
    <summary> <h4> setup polybar for dual monitor </h4> </summary>
+
+- edit `~/.config/bspwm/exodia.conf`
+- set `multi-bar-monitors` to `true`
+  - ![](/img/tips/multiBars/0.png)
+- save file and restart `bspwm` (<kbd>ctrl + shift + r</kbd>)
+___
+
+### For older version
 
 I'm gonna apply the steps on Tokyo Theme (same on all themes).
 
