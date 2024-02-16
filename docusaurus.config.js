@@ -7,7 +7,7 @@ module.exports = {
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/Exodia.png",
+  favicon: "logos/exodia-cyan.png",
   organizationName: "Exodia-OS",
   projectName: "exodia-website",
   deploymentBranch: "gh-pages",
@@ -19,7 +19,7 @@ module.exports = {
       title: "Exodia OS",
       logo: {
         alt: "Exodia Logo",
-        src: "img/Exodia.png",
+        src: "logos/exodia-cyan.png",
       },
       
       items: [

@@ -11,7 +11,7 @@ export default {
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/Exodia.png",
+  "favicon": "logos/exodia-cyan.png",
   "organizationName": "Exodia-OS",
   "projectName": "exodia-website",
   "deploymentBranch": "gh-pages",
@@ -25,7 +25,7 @@ export default {
       "title": "Exodia OS",
       "logo": {
         "alt": "Exodia Logo",
-        "src": "img/Exodia.png"
+        "src": "logos/exodia-cyan.png"
       },
       "items": [
         {
@@ -130,7 +130,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Mahmoud Mohamed | Cyb3rTh1eveZ Team"
+      "copyright": "Copyright © 2024 Mahmoud Mohamed | Cyb3rTh1eveZ Team"
     },
     "prism": {
       "additionalLanguages": []
