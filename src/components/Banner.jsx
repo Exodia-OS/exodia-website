@@ -47,8 +47,21 @@ function Banner() {
 
         <div className="bannerBtns">
 
+
 {/*  */}
 
+        <Link
+          to="https://omansh.vercel.app/ExodiaOS/"
+          style={{ textDecoration: "none" }} >
+          <button className="banner_btn">
+           <img src="icons/download-cyan.png" />
+           Krishn's Drive
+          </button>
+        </Link>
+
+{/*  */} 
+
+        <br/>
         <Link
           to="https://drive.google.com/drive/folders/1R5bZhI8yGfr9Z3Xq_QWnUIK1qvh42a2_?usp=sharing"
           style={{ textDecoration: "none" }}
