@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Exodia",
+  title: "Exodia 🇵🇸",
   tagline: "OS For Cyber Security",
   url: "https://github.com",
   baseUrl: "/exodia-website/",

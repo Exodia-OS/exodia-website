@@ -4,9 +4,16 @@ import Link from "@docusaurus/Link";
 function BannerText() {
   return (
     <div className="bannerContent">
+
+      {/*
+
       <h1>
         Exodia OS
       </h1>
+
+      */}
+
+<h1>Free Palestine  🇵🇸 </h1>
       
       <p>
       <img align="center" width="200px" src="logos/exodia-cyan.png"/>
@@ -15,7 +22,6 @@ function BannerText() {
           
           <h2 align="center">A highly customized arch-based distro For All Cybersecurity fields.</h2>
           <h2>It comes with other special editions as well.</h2>
-          <h1>We stand with Palestine ❤️ Free Palestine 🇵🇸 </h1>
         
         </div>
         
@@ -47,27 +53,15 @@ function Banner() {
 
         <div className="bannerBtns">
 
-
-{/*  */}
-
-        <Link
-          to="https://omansh.vercel.app/ExodiaOS/"
-          style={{ textDecoration: "none" }} >
-          <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
-           Krishn's Drive
-          </button>
-        </Link>
-
 {/*  */} 
 
-        <br/>
+
         <Link
-          to="https://drive.google.com/drive/folders/1R5bZhI8yGfr9Z3Xq_QWnUIK1qvh42a2_?usp=sharing"
+          to="https://omansh.vercel.app/ExodiaOS/2024.02/exodia-home-2024.02.21-x86_64.iso"
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/download.png" />
           Home
           </button>
         </Link>
@@ -76,10 +70,10 @@ function Banner() {
         
           <br/>
         <Link
-          to="https://drive.google.com/drive/folders/1RHyGWLOTf4mtoVpHpGzNOJRZ8UnZI2PR?usp=sharing"
+          to="https://omansh.vercel.app/ExodiaOS/2024.02/exodia-acer-predator-2024.02.21-x86_64.iso"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/download.png" />
            Acer-Predator
           </button>
         </Link>
@@ -88,22 +82,36 @@ function Banner() {
 
           <br/>
         <Link
-          to="https://drive.google.com/drive/folders/1i5AJHBkvmYWlCWQYHKKSlFv5ogmnyW5b?usp=sharing"
+          to="https://omansh.vercel.app/ExodiaOS/archive/2023.07/exodia-wireless-2022.12.11-x86_64.iso"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/download.png" />
            Wireless
           </button>
         </Link>
 
 {/*  */}
 
+<br/>
+        <Link
+          to="https://drive.google.com/drive/folders/1HZZdsgdryxvCbTktx9aiV9yl7aa7IAug?usp=drive_link"
+          style={{ textDecoration: "none" }}
+        >
+          <button className="banner_btn">
+           <img src="icons/google-drive-download.png" />
+           Google Drive
+          </button>
+        </Link>
+
+{/*  */}
+
+
         <br/>
         <Link
           to="https://fosstorrents.com/distributions/exodia-os/"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/torrent-download.png" />
            FOSS Torrents
           </button>
         </Link>
@@ -115,7 +123,7 @@ function Banner() {
           to="https://sourceforge.net/projects/exodia-releases/files/"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/sourceforge-download.png" />
            sourceforge
           </button>
         </Link>
@@ -141,14 +149,25 @@ function Banner() {
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
-           <img src="icons/download-cyan.png" />
+           <img src="icons/telegram-download.png" />
            TELEGRAM
           </button>
         </Link>
 
 
-
 {/*  */}
+
+<br/>
+        <Link
+          to="https://omansh.vercel.app/ExodiaOS/archive/"
+          style={{ textDecoration: "none" }} >
+          <button className="banner_btn">
+           <img src="icons/downloadv2.png" />
+           Archive Drive
+          </button>
+        </Link>
+
+{/*  */} 
 
       </div>
 
@@ -156,7 +175,7 @@ function Banner() {
 
       <img
         className="bannerImg"
-        src="img/FreePalestine.png"
+        src="img/desktop.png"
         alt="Exodia Demo"
       />
 
