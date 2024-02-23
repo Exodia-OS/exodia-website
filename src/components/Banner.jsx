@@ -57,7 +57,7 @@ function Banner() {
 
 
         <Link
-          to="https://omansh.vercel.app/ExodiaOS/2024.02/exodia-home-2024.02.21-x86_64.iso"
+          to="https://omansh.vercel.app/ExodiaOS/latest/exodia-home-2024.02.21-x86_64.iso"
           style={{ textDecoration: "none" }}
         >
           <button className="banner_btn">
@@ -70,7 +70,7 @@ function Banner() {
         
           <br/>
         <Link
-          to="https://omansh.vercel.app/ExodiaOS/2024.02/exodia-acer-predator-2024.02.21-x86_64.iso"
+          to="https://omansh.vercel.app/ExodiaOS/latest/exodia-acer-predator-2024.02.21-x86_64.iso"
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/download.png" />
