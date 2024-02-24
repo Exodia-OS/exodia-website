@@ -94,6 +94,18 @@ function Banner() {
 
 <br/>
         <Link
+          to="https://drive.google.com/drive/folders/1zPh229ZV360hwpbQTSQU9UXfQKYI0-90?usp=drive_link"
+          style={{ textDecoration: "none" }} >
+          <button className="banner_btn">
+           <img src="icons/google-drive-download.png" />
+           Wireless
+          </button>
+        </Link>
+
+{/*  */}
+
+<br/>
+        <Link
           to="https://drive.google.com/drive/folders/1HZZdsgdryxvCbTktx9aiV9yl7aa7IAug?usp=drive_link"
           style={{ textDecoration: "none" }}
         >
@@ -112,7 +124,7 @@ function Banner() {
           style={{ textDecoration: "none" }}>
           <button className="banner_btn">
            <img src="icons/torrent-download.png" />
-           FOSS Torrents
+           FOSS
           </button>
         </Link>
 
@@ -163,7 +175,7 @@ function Banner() {
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/downloadv2.png" />
-           Archive Drive
+           Archive
           </button>
         </Link>
 
