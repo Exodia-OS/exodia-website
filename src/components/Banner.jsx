@@ -94,7 +94,7 @@ function Banner() {
 
 <br/>
         <Link
-          to="https://drive.google.com/drive/folders/1zPh229ZV360hwpbQTSQU9UXfQKYI0-90?usp=drive_link"
+          to="https://drive.google.com/drive/folders/1zPh229ZV360hwpbQTSQU9UXfQKYI0-90?usp=sharing"
           style={{ textDecoration: "none" }} >
           <button className="banner_btn">
            <img src="icons/google-drive-download.png" />
