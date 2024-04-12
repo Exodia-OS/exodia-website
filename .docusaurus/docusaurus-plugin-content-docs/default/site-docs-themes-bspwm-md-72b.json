@@ -1,0 +1,16 @@
+{
+  "unversionedId": "themes/bspwm",
+  "id": "themes/bspwm",
+  "title": "bspwm Themes",
+  "description": "🍁 Themes 🍁",
+  "source": "@site/docs/themes/bspwm.md",
+  "sourceDirName": "themes",
+  "slug": "/themes/bspwm",
+  "permalink": "/exodia-website/themes/bspwm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "bspwm",
+    "title": "bspwm Themes"
+  }
+}

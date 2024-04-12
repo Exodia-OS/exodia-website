@@ -1,0 +1,13 @@
+{
+  "unversionedId": "keybindings/dwm",
+  "id": "keybindings/dwm",
+  "title": "dwm",
+  "description": "",
+  "source": "@site/docs/keybindings/dwm.md",
+  "sourceDirName": "keybindings",
+  "slug": "/keybindings/dwm",
+  "permalink": "/exodia-website/keybindings/dwm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "quickstart/post-install",
+  "id": "quickstart/post-install",
+  "title": "Post Install",
+  "description": "_NOTE:_   Use your fav text editor (vi, vim, nano, NvChad, geany, etc... ).",
+  "source": "@site/docs/quickstart/post-install.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/post-install",
+  "permalink": "/exodia-website/quickstart/post-install",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "post-install",
+    "title": "Post Install"
+  }
+}

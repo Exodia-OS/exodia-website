@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Keybinding",
+  "id": "Keybinding",
+  "title": "bspwm Keybinding",
+  "description": "Keybinding ⌨️",
+  "source": "@site/docs/Keybinding.md",
+  "sourceDirName": ".",
+  "slug": "/Keybinding",
+  "permalink": "/exodia-website/Keybinding",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Keybinding",
+    "title": "bspwm Keybinding"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/exodia-website/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/exodia-website/",
+          "mainDocId": "quickstart/install",
+          "docs": [
+            {
+              "id": "quickstart/install",
+              "path": "/exodia-website/quickstart/install",
+              "sidebar": "config"
+            }
+          ],
+          "sidebars": {
+            "config": {
+              "link": {
+                "path": "/exodia-website/quickstart/install",
+                "label": "quickstart/install"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

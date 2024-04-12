@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Contributing/Contributing",
+  "id": "Contributing/Contributing",
+  "title": "Contributing in wiki",
+  "description": "",
+  "source": "@site/docs/Contributing/wiki.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Contributing",
+  "permalink": "/exodia-website/Contributing/Contributing",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Contributing",
+    "title": "Contributing in wiki"
+  }
+}

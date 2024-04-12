@@ -1,0 +1,21 @@
+{
+  "unversionedId": "credits",
+  "id": "credits",
+  "title": "Developers",
+  "description": "<!--",
+  "source": "@site/docs/credit.md",
+  "sourceDirName": ".",
+  "slug": "/credits",
+  "permalink": "/exodia-website/credits",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "credits",
+    "title": "Developers"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "Keybinding",
+    "permalink": "/exodia-website/Keybinding"
+  }
+}

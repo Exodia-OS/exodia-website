@@ -1,0 +1,25 @@
+{
+  "unversionedId": "tips/sddm",
+  "id": "tips/sddm",
+  "title": "sddm",
+  "description": "Changing SDDM user picture",
+  "source": "@site/docs/tips/sddm.md",
+  "sourceDirName": "tips",
+  "slug": "/tips/sddm",
+  "permalink": "/exodia-website/tips/sddm",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sddm",
+    "title": "sddm"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "polybar",
+    "permalink": "/exodia-website/tips/polybar"
+  },
+  "next": {
+    "title": "Set keyboard Layout",
+    "permalink": "/exodia-website/tips/keyboardLayout"
+  }
+}

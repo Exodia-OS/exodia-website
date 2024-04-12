@@ -1,0 +1,13 @@
+{
+  "unversionedId": "Contributing/wiki2",
+  "id": "Contributing/wiki2",
+  "title": "wiki2",
+  "description": "| Syntax      | Description |",
+  "source": "@site/docs/Contributing/wiki2.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/wiki2",
+  "permalink": "/exodia-website/Contributing/wiki2",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

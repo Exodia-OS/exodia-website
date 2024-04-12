@@ -1,0 +1,21 @@
+{
+  "unversionedId": "tips/polybar",
+  "id": "tips/polybar",
+  "title": "polybar",
+  "description": "Polybar Modules",
+  "source": "@site/docs/tips/polybar.md",
+  "sourceDirName": "tips",
+  "slug": "/tips/polybar",
+  "permalink": "/exodia-website/tips/polybar",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "polybar",
+    "title": "polybar"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "Post Install",
+    "permalink": "/exodia-website/quickstart/post-install"
+  }
+}

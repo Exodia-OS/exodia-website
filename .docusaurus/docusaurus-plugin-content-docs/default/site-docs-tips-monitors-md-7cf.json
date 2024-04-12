@@ -1,0 +1,25 @@
+{
+  "unversionedId": "tips/monitors",
+  "id": "tips/monitors",
+  "title": "setup monitors",
+  "description": "- use arandr to configure monitors",
+  "source": "@site/docs/tips/monitors.md",
+  "sourceDirName": "tips",
+  "slug": "/tips/monitors",
+  "permalink": "/exodia-website/tips/monitors",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "monitors",
+    "title": "setup monitors"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "Set keyboard Layout",
+    "permalink": "/exodia-website/tips/keyboardLayout"
+  },
+  "next": {
+    "title": "bspwm Keybinding",
+    "permalink": "/exodia-website/Keybinding"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "tips/keyboardLayout",
+  "id": "tips/keyboardLayout",
+  "title": "Set keyboard Layout",
+  "description": "- edit bspwmrc",
+  "source": "@site/docs/tips/keyboardLayout (copy 1).md",
+  "sourceDirName": "tips",
+  "slug": "/tips/keyboardLayout",
+  "permalink": "/exodia-website/tips/keyboardLayout",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "keyboardLayout",
+    "title": "Set keyboard Layout"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "sddm",
+    "permalink": "/exodia-website/tips/sddm"
+  },
+  "next": {
+    "title": "Set keyboard Layout",
+    "permalink": "/exodia-website/tips/keyboardLayout"
+  }
+}

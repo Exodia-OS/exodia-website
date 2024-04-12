@@ -1,0 +1,25 @@
+{
+  "unversionedId": "tips/keyboardLayout",
+  "id": "tips/keyboardLayout",
+  "title": "Set keyboard Layout",
+  "description": "for (v2022.12) Release or less",
+  "source": "@site/docs/tips/keyboardLayout.md",
+  "sourceDirName": "tips",
+  "slug": "/tips/keyboardLayout",
+  "permalink": "/exodia-website/tips/keyboardLayout",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "keyboardLayout",
+    "title": "Set keyboard Layout"
+  },
+  "sidebar": "config",
+  "previous": {
+    "title": "sddm",
+    "permalink": "/exodia-website/tips/sddm"
+  },
+  "next": {
+    "title": "setup monitors",
+    "permalink": "/exodia-website/tips/monitors"
+  }
+}

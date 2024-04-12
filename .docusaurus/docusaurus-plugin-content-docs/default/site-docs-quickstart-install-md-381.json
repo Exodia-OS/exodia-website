@@ -1,0 +1,19 @@
+{
+  "unversionedId": "quickstart/install",
+  "id": "quickstart/install",
+  "title": "Install",
+  "description": "install video",
+  "source": "@site/docs/quickstart/install.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/install",
+  "permalink": "/exodia-website/quickstart/install",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "install",
+    "title": "Install",
+    "sidebar_position": 1
+  },
+  "sidebar": "config"
+}

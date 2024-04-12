@@ -1,0 +1,209 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "608": [
+      608
+    ],
+    "17896441": [
+      532,
+      918
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "05b34754": [
+      97
+    ],
+    "07fa6354": [
+      643
+    ],
+    "1be78505": [
+      532,
+      608
+    ],
+    "2872d7a0": [
+      738
+    ],
+    "381d9fdb": [
+      302
+    ],
+    "50fdedd3": [
+      989
+    ],
+    "6e187dbf": [
+      948
+    ],
+    "935f2afb": [
+      53
+    ],
+    "c4f5d8e4": [
+      532,
+      195
+    ],
+    "f354ecb7": [
+      13
+    ],
+    "f3cd8cd4": [
+      504
+    ],
+    "styles": [
+      179,
+      195,
+      303,
+      514,
+      918,
+      532
+    ]
+  },
+  "assets": {
+    "13": {
+      "js": [
+        {
+          "file": "assets/js/f354ecb7.b4857381.js",
+          "hash": "90743bab7c266efc",
+          "publicPath": "/exodia-website/assets/js/f354ecb7.b4857381.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.c4ddd143.js",
+          "hash": "40d7d8aaec47dbd9",
+          "publicPath": "/exodia-website/assets/js/935f2afb.c4ddd143.js"
+        }
+      ]
+    },
+    "97": {
+      "js": [
+        {
+          "file": "assets/js/05b34754.fbd7bfa9.js",
+          "hash": "eb05ee5bc146f4bc",
+          "publicPath": "/exodia-website/assets/js/05b34754.fbd7bfa9.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.54711cd4.js",
+          "hash": "18a962df5856e247",
+          "publicPath": "/exodia-website/assets/js/main.54711cd4.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.92957a07.js",
+          "hash": "c71c1ebba6a05784",
+          "publicPath": "/exodia-website/assets/js/c4f5d8e4.92957a07.js"
+        }
+      ]
+    },
+    "302": {
+      "js": [
+        {
+          "file": "assets/js/381d9fdb.ca77cd4b.js",
+          "hash": "f8bcdfe3c235533f",
+          "publicPath": "/exodia-website/assets/js/381d9fdb.ca77cd4b.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.5eedc8aa.js",
+          "hash": "6568134861e44fc6",
+          "publicPath": "/exodia-website/assets/js/runtime~main.5eedc8aa.js"
+        }
+      ]
+    },
+    "504": {
+      "js": [
+        {
+          "file": "assets/js/f3cd8cd4.75aeadca.js",
+          "hash": "da510230b5d3cb43",
+          "publicPath": "/exodia-website/assets/js/f3cd8cd4.75aeadca.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.48deb828.css",
+          "hash": "d8b61b3099f8538f",
+          "publicPath": "/exodia-website/assets/css/styles.48deb828.css"
+        }
+      ]
+    },
+    "608": {
+      "js": [
+        {
+          "file": "assets/js/608.652a592e.js",
+          "hash": "1cb3105b06190065",
+          "publicPath": "/exodia-website/assets/js/608.652a592e.js"
+        },
+        {
+          "file": "assets/js/1be78505.730999c3.js",
+          "hash": "f4ebbd34145b1ff7",
+          "publicPath": "/exodia-website/assets/js/1be78505.730999c3.js"
+        }
+      ]
+    },
+    "643": {
+      "js": [
+        {
+          "file": "assets/js/07fa6354.68ae1405.js",
+          "hash": "ffea09095c0be61b",
+          "publicPath": "/exodia-website/assets/js/07fa6354.68ae1405.js"
+        }
+      ]
+    },
+    "738": {
+      "js": [
+        {
+          "file": "assets/js/2872d7a0.940df645.js",
+          "hash": "4eb1e8bf09fa249c",
+          "publicPath": "/exodia-website/assets/js/2872d7a0.940df645.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.a3b75e1d.js",
+          "hash": "d4c2a3b55b675528",
+          "publicPath": "/exodia-website/assets/js/17896441.a3b75e1d.js"
+        }
+      ]
+    },
+    "948": {
+      "js": [
+        {
+          "file": "assets/js/6e187dbf.52accf26.js",
+          "hash": "b9f6747ae9070bcc",
+          "publicPath": "/exodia-website/assets/js/6e187dbf.52accf26.js"
+        }
+      ]
+    },
+    "989": {
+      "js": [
+        {
+          "file": "assets/js/50fdedd3.16c29380.js",
+          "hash": "1b17503bb4ae6c2e",
+          "publicPath": "/exodia-website/assets/js/50fdedd3.16c29380.js"
+        }
+      ]
+    }
+  }
+}
